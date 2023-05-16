@@ -1,5 +1,5 @@
 # Leetcode's Question
-All the leetcode's Q I solved is given here with the solution. I tried to implement the best solution with good time and space complexity as well as providing the explanation. Hope you will like it.
+All the leetcode's Question I solved is given here with the solution. I tried to implement the best solution with good time and space complexity as well as providing the explanation. Hope you will like it.
 
 
 
