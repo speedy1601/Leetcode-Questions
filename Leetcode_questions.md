@@ -16,3 +16,4 @@ All the leetcode's Question I solved is given here with the solution. I tried to
 |   Question  |  Solution   | Medium |
 | :-----------| :---------- | :------|
 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | [Solution](https://leetcode.com/problems/minimum-absolute-difference/solutions/3536003/both-cpp-and-python/) | Easy
+| [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/) | [Solution](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/solutions/3538087/from-o-nlogn-to-o-1-with-the-most-beautiful-explanation/) | Easy
