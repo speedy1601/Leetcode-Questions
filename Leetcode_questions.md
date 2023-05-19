@@ -12,7 +12,7 @@ All the leetcode's Question I solved is given here with the solution. I tried to
 
                      
 
-##                  Sort Questions
+##                  Sorting Questions
 |   Question  |  Solution   | Medium |
 | :-----------| :---------- | :------|
 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | [Solution](https://leetcode.com/problems/minimum-absolute-difference/solutions/3536003/both-cpp-and-python/) | Easy
