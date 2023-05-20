@@ -5,18 +5,18 @@ All the leetcode's Question I solved is given here with the solution. I tried to
 
 ##                  Fibonacci Questions
 
-|   Question  |  Solution   | Medium |
-| :-----------| :---------- | :------|
-| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](https://leetcode.com/problems/fibonacci-number/solutions/3530393/lru-cache-explanation/) | Easy
-|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | [Solution](https://leetcode.com/problems/climbing-stairs/solutions/3529601/explanation-via-practical-example/?orderBy=most_votes) | Easy
+No |   Question  |  Solution   | Medium |
+| :---- | :-----------| :---------- | :------|
+| 1 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](https://leetcode.com/problems/fibonacci-number/solutions/3530393/lru-cache-explanation/) | Easy
+| 2 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | [Solution](https://leetcode.com/problems/climbing-stairs/solutions/3529601/explanation-via-practical-example/?orderBy=most_votes) | Easy
 
                      
 
 ##                  Sorting Questions
-|   Question  |  Solution   | Medium |
-| :-----------| :---------- | :------|
-| [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | [Solution](https://leetcode.com/problems/minimum-absolute-difference/solutions/3536003/both-cpp-and-python/) | Easy
-| [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/) | [Solution](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/solutions/3538087/from-o-nlogn-to-o-1-with-the-most-beautiful-explanation/) | Easy
-| [Array Partition](https://leetcode.com/problems/array-partition/description/) | [Solution](https://leetcode.com/problems/array-partition/solutions/3539862/solution-with-lil-explanation/) | Easy
-| [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/comments/1881464) | [Solution](https://leetcode.com/problems/largest-perimeter-triangle/solutions/3542385/precise-explanation-of-why-sort-used-from-scratch/) | Easy
-| [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/) | [Solution](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/solutions/3545228/explanation-of-the-whole-idea/) | Easy
+No |   Question  |  Solution   | Medium |
+| :--- | :-----------| :---------- | :------|
+| 1 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | [Solution](https://leetcode.com/problems/minimum-absolute-difference/solutions/3536003/both-cpp-and-python/) | Easy
+| 2 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/) | [Solution](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/solutions/3538087/from-o-nlogn-to-o-1-with-the-most-beautiful-explanation/) | Easy
+| 3| [Array Partition](https://leetcode.com/problems/array-partition/description/) | [Solution](https://leetcode.com/problems/array-partition/solutions/3539862/solution-with-lil-explanation/) | Easy
+| 4 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/comments/1881464) | [Solution](https://leetcode.com/problems/largest-perimeter-triangle/solutions/3542385/precise-explanation-of-why-sort-used-from-scratch/) | Easy
+| 5 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/) | [Solution](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/solutions/3545228/explanation-of-the-whole-idea/) | Easy
