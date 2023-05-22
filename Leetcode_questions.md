@@ -13,11 +13,12 @@ No |   Question  |  Solution   | Medium |
                      
 
 ##                  Sorting Questions
-No |   Question  |  Solution   | Medium |
-| :--- | :-----------| :---------- | :------|
-| 1 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | [Solution](https://leetcode.com/problems/minimum-absolute-difference/solutions/3536003/both-cpp-and-python/) | Easy
-| 2 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/) | [Solution](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/solutions/3538087/from-o-nlogn-to-o-1-with-the-most-beautiful-explanation/) | Easy
-| 3| [Array Partition](https://leetcode.com/problems/array-partition/description/) | [Solution](https://leetcode.com/problems/array-partition/solutions/3539862/solution-with-lil-explanation/) | Easy
-| 4 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/comments/1881464) | [Solution](https://leetcode.com/problems/largest-perimeter-triangle/solutions/3542385/precise-explanation-of-why-sort-used-from-scratch/) | Easy
-| 5 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/) | [Solution](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/solutions/3545228/explanation-of-the-whole-idea/) | Easy
-| _ | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/) | [Solution](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/solutions/3547762/with-step-by-step-solution/) | Medium
+No |   Question  |  Solution   | Medium |  About |
+| :--- | :-----------| :---------- | :------| :----- |
+| 1 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | [Solution](https://leetcode.com/problems/minimum-absolute-difference/solutions/3536003/both-cpp-and-python/) | Easy | Logic
+| 2 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/) | [Solution](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/solutions/3538087/from-o-nlogn-to-o-1-with-the-most-beautiful-explanation/) | Easy | 
+| 3| [Array Partition](https://leetcode.com/problems/array-partition/description/) | [Solution](https://leetcode.com/problems/array-partition/solutions/3539862/solution-with-lil-explanation/) | Easy | 
+| 4 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/comments/1881464) | [Solution](https://leetcode.com/problems/largest-perimeter-triangle/solutions/3542385/precise-explanation-of-why-sort-used-from-scratch/) | Easy | Python Syntax
+| 5 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/) | [Solution](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/solutions/3545228/explanation-of-the-whole-idea/) | Easy | Logic
+| _ | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/) | [Solution](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/solutions/3547762/with-step-by-step-solution/) | Medium | Logic + Python syntax
+| _ | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) | [Solution](https://leetcode.com/problems/most-profit-assigning-work/solutions/3551451/all-kind-of-solution-with-explanation/) | Medium | LOGIC + CPP SYNTAX (MUST SOLVE)
