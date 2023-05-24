@@ -13,7 +13,7 @@ No |   Question  |  Solution   | Medium |
                      
 
 ##                  Sorting Questions
-No |   Question  |  Solution   | Medium |  About |
+No |   Question  |  Solution   | Level |  About |
 | :--- | :-----------| :---------- | :------| :----- |
 | 1 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | [Solution](https://leetcode.com/problems/minimum-absolute-difference/solutions/3536003/both-cpp-and-python/) | Easy | Logic
 | 2 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/) | [Solution](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/solutions/3538087/from-o-nlogn-to-o-1-with-the-most-beautiful-explanation/) | Easy | 
@@ -25,3 +25,8 @@ No |   Question  |  Solution   | Medium |  About |
 | 2 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) | [Solution](https://leetcode.com/problems/most-profit-assigning-work/solutions/3551451/all-kind-of-solution-with-explanation/) | Medium | LOGIC + CPP SYNTAX (MUST SOLVE)
 | 3 | [Reduction Operations to Make the Array Elements Equa](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/description/) | [Solution](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/solutions/3556247/python-2-line-cpp-soln-with-step-by-step-explanation/) | Medium | 
 | 4 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | [Solution](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solutions/3556932/o-n-cpp-o-nlogn-python-with-explanation-from-scratch/) | Medium | LOGIC + PYTHON SYNTAX (MUST SOLVE)
+
+##                 Binary Search
+| No | Question | Solution | Level | About |
+| :--| :--------| :--------| :-----| :-----|
+| 1 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/3036081/cpp-equal-range-python-bisect/) | [Solution](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/3036081/cpp-equal-range-python-bisect/) | Medium | CPP & PYTHON SYNTAX 
