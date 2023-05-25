@@ -35,8 +35,8 @@ No |   Question  |  Solution   | Level |  Note |
 ## Routine - 6A
 |Day|9:00 - 10:30|10:40 - 12:10|12:20 - 1:50|2:20 - 3:50|4:00 - 5:30|
 |:--:|:--:| :--:|:--:|:--:|:--:|
-|Sat & Mon| | CSE 3227 Data Communication (SAK)|CSE 2109 EE (TBA10)| CSE 2161 EE Lab (TBA10) (SAT) CSE 3187 Computer Architecture Lab (Rap) (MON) | CSE 3170 Computer Architecture (RAP) | 
-| Sun & Tues | CSE 3169 Theory Of Computation (NI) | MATH 2305 Statistics and Probability (MJI) | | | | 
+|Sat & Mon| | CSE 3227 Data Communication (SAK) (403) |CSE 2109 EE (TBA10) (414)| CSE 2161 EE Lab (TBA10) (SAT) (EE Lab) CSE 3187 Computer Architecture Lab (Rap) (MON) (406) | CSE 3170 Computer Architecture (RAP) (418) | 
+| Sun & Tues | CSE 3169 Theory Of Computation (NI) (215)| MATH 2305 Statistics and Probability (MJI) (215)| | | | 
 
 
                         hddedh
