@@ -33,5 +33,5 @@ No |   Question  |  Solution   | Level |  Note |
 | 2 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/description/) | [Solution](https://leetcode.com/problems/find-right-interval/solutions/3560131/full-explanation-of-everything/) | Medium | PYTHON SYNTAX |
 
 ## Routine - 6A
-|Day|9-10:30|10:40-12:10|12:20-1:50|2:20-3:50|4-5:30|
+|Day|9 - 10:30|10:40 - 12:10|12:20 - 1:50|2:20 -3:50|4 - 5:30|
 |:--:|:--:| :--:|:--:|:--:|:--:|
