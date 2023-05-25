@@ -37,3 +37,9 @@ No |   Question  |  Solution   | Level |  Note |
 |:--:|:--:| :--:|:--:|:--:|:--:|
 |Sat & Mon| | CSE 3227 Data Communication (SAK)|CSE 2109 EE (TBA10)| CSE 2161 EE Lab (TBA10) (SAT) CSE 3187 Computer Architecture Lab (Rap) (MON) | CSE 3170 Computer Architecture (RAP) | 
 | Sun & Tues | CSE 3169 Theory Of Computation (NI) | MATH 2305 (MJI) | | | | 
+a
+aa
+a
+a
+aa
+a
