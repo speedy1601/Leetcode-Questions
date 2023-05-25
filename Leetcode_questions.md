@@ -33,5 +33,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 2 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/description/) | [Solution](https://leetcode.com/problems/find-right-interval/solutions/3560131/full-explanation-of-everything/) | Medium | PYTHON SYNTAX |
 
 ## Routine - 6A
-|Day|9 - 10:30|10:40 - 12:10|12:20 - 1:50|2:20 -3:50|4 - 5:30|
+|Day|9:00 - 10:30|10:40 - 12:10|12:20 - 1:50|2:20 -3:50|4:00 - 5:30|
 |:--:|:--:| :--:|:--:|:--:|:--:|
+|Sat & Mon| | CSE 3227 Data Communication (SAK)|CSE 2109 EE (TBA10)| CSE 2161 EE Lab (TBA10) (SAT) CSE 3187 Computer Architecture Lab (Rap) (MON) | CSE 3170 Computer Architecture (RAP) | 
+| Sun & Tues | CSE 3169 Theory Of Computation (NI) | MATH 2305 (MJI) | | | | 
