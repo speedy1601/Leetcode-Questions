@@ -33,24 +33,3 @@ No |   Question  |  Solution   | Level |  Note |
 | 1 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/3036081/cpp-equal-range-python-bisect/) | [Solution](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/3036081/cpp-equal-range-python-bisect/) | Medium | CPP & PYTHON SYNTAX |
 | 2 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/description/) | [Solution](https://leetcode.com/problems/find-right-interval/solutions/3560131/full-explanation-of-everything/) | Medium | PYTHON SYNTAX |
 | 3 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Solution](https://leetcode.com/problems/valid-triangle-number/solutions/3562279/full-explanation-python-2-line/) | Medium | Logic
-
-
-
-
-
-
-
-
-
-
-
-## Routine - 6A
-|Day|9:00 - 10:30|10:40 - 12:10|12:20 - 1:50|2:20 - 3:50|4:00 - 5:30|
-|:--:|:--:| :--:|:--:|:--:|:--:|
-|Sat & Mon| | CSE 3227 Data Communication (SAK) (403) |CSE 2109 EE (TBA10) (414)| CSE 2161 EE Lab (TBA10) (SAT) (Room : EE Lab) CSE 3187 Computer Architecture Lab (Rap) (MON) (406) | CSE 3170 Computer Architecture (RAP) (418) | 
-| Sun & Tues | CSE 3169 Theory Of Computation (NI) (215)| MATH 2305 Statistics and Probability (MJI) (215)| | | | 
-
-
-                        hddedh
-                        dwkjwhdwqhdh
-                        ewfhfdwehfdhwqe
