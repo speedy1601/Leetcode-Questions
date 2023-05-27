@@ -40,6 +40,5 @@ No |   Question  |  Solution   | Level |  Note |
 | 1 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/3036081/cpp-equal-range-python-bisect/) | [Solution](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/3036081/cpp-equal-range-python-bisect/) | Medium | CPP & PYTHON SYNTAX |
 | 2 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/description/) | [Solution](https://leetcode.com/problems/find-right-interval/solutions/3560131/full-explanation-of-everything/) | Medium | PYTHON SYNTAX |
 | 3 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Solution](https://leetcode.com/problems/valid-triangle-number/solutions/3562279/full-explanation-python-2-line/) | Medium | Logic |
-
-
+| | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/) | [Solution](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/solutions/3569778/step-by-step-explanation-of-every-part/) | Medium | Logic |
 | | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/) | [Solution](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/solutions/3568058/step-by-step-explanation/) | Medium | 
