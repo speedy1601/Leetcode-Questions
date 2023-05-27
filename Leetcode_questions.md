@@ -2,10 +2,17 @@
 All the leetcode's Question I solved is given here with the solution. I tried to implement the best solution with good time and space complexity as well as providing the explanation. Hope you will like it.
 
 
+##                  Array
+No |   Question  |  Solution   | Level |  Note |
+| :--- | :-----------| :---------- | :------| :----- |
+| 1 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/) | [Solution](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/solutions/2997822/unordered-map-full-explanation/) | Medium | Logic |
+
+
+
 
 ##                  Fibonacci Questions
 
-No |   Question  |  Solution   | Medium |
+No |   Question  |  Solution   | Level |
 | :---- | :-----------| :---------- | :------|
 | 1 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](https://leetcode.com/problems/fibonacci-number/solutions/3530393/lru-cache-explanation/) | Easy
 | 2 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | [Solution](https://leetcode.com/problems/climbing-stairs/solutions/3529601/explanation-via-practical-example/?orderBy=most_votes) | Easy
@@ -33,4 +40,6 @@ No |   Question  |  Solution   | Level |  Note |
 | 1 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/3036081/cpp-equal-range-python-bisect/) | [Solution](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/3036081/cpp-equal-range-python-bisect/) | Medium | CPP & PYTHON SYNTAX |
 | 2 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/description/) | [Solution](https://leetcode.com/problems/find-right-interval/solutions/3560131/full-explanation-of-everything/) | Medium | PYTHON SYNTAX |
 | 3 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Solution](https://leetcode.com/problems/valid-triangle-number/solutions/3562279/full-explanation-python-2-line/) | Medium | Logic |
+
+
 | | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/) | [Solution](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/solutions/3568058/step-by-step-explanation/) | Medium | 
