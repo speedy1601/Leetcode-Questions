@@ -10,7 +10,7 @@ No |   Question  |  Solution   | Level |  Note |
 
 
 
-##                  Fibonacci Questions
+##                  Fibonacci
 
 No |   Question  |  Solution   | Level |
 | :---- | :-----------| :---------- | :------|
@@ -19,7 +19,7 @@ No |   Question  |  Solution   | Level |
 
                      
 
-##                  Sorting Questions
+##                  Sorting 
 No |   Question  |  Solution   | Level |  Note |
 | :--- | :-----------| :---------- | :------| :----- |
 | 1 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | [Solution](https://leetcode.com/problems/minimum-absolute-difference/solutions/3536003/both-cpp-and-python/) | Easy | Logic |
