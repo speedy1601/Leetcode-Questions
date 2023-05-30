@@ -6,6 +6,7 @@ All the leetcode's Question I solved is given here with the solution. I tried to
 No |   Question  |  Solution   | Level |  Note |
 | :--- | :-----------| :---------- | :------| :----- |
 | 1 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/) | [Solution](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/solutions/2997822/unordered-map-full-explanation/) | Medium | Logic |
+| 1 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Solution](https://leetcode.com/problems/first-missing-positive/solutions/3579033/step-by-step-explanation-with-proof) | HARD | LOGIC (MUST SOLVE) |
 
 
 
