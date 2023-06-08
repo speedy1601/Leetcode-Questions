@@ -48,3 +48,8 @@ No |   Question  |  Solution   | Level |  Note |
 | 5 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/) | [Solution](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/solutions/3568058/step-by-step-explanation/) | Medium | |
 | 6 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Solution](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/solutions/3590995/same-as-leetcode-668/) | Medium | (Same as 1st Hard Pb)
 | 1 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/) | [Solution](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/solutions/3583632/step-by-step-practical-explanation/) | Hard | LOGIC (MUST SOLVE) |
+
+##                 Graph
+| No | Question | Solution | Level | Note |
+| :--| :--------| :--------| :-----| :-----|
+| 1 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/) | [Solution](https://leetcode.com/problems/find-center-of-star-graph/solutions/3612124/o-1-solution/) | Easy | |
