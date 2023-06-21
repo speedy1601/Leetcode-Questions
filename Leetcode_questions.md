@@ -53,3 +53,8 @@ No |   Question  |  Solution   | Level |  Note |
 | No | Question | Solution | Level | Note |
 | :--| :--------| :--------| :-----| :-----|
 | 1 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/) | [Solution](https://leetcode.com/problems/find-center-of-star-graph/solutions/3612124/o-1-solution/) | Easy | |
+
+##               DFS
+| No | Question | Solution | Level | Note |
+| :--| :--------| :--------| :-----| :-----|
+| 1 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Solution](https://leetcode.com/problems/employee-importance/solutions/3665366/reference-in-cpp-nonlocal-in-python/) | Medium | |
