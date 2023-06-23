@@ -9,7 +9,10 @@ No |   Question  |  Solution   | Level |  Note |
 | 1 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Solution](https://leetcode.com/problems/first-missing-positive/solutions/3579033/step-by-step-explanation-with-proof) | HARD | LOGIC (MUST SOLVE) |
 
 
-
+##      Math
+No |   Question  |  Solution   | Level |  Note |
+| :--- | :-----------| :---------- | :------| :----- |
+| 1 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)|[Solution](https://leetcode.com/problems/construct-the-rectangle/solutions/3672605/1-liner-python-and-3-liner-cpp/) | Easy | logic |
 
 ##                  Fibonacci
 
