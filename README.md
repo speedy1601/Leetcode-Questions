@@ -61,5 +61,6 @@ No |   Question  |  Solution   | Level |  Note |
 ##               DFS
 | No | Question | Solution | Level | Note |
 | :--| :--------| :--------| :-----| :-----|
-| 1 |[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Solution](https://leetcode.com/problems/find-if-path-exists-in-graph/solutions/3665775/dfs/) | Easy | |
+| 1 | [Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [Solution](https://leetcode.com/problems/flood-fill/solutions/3674065/dfs/) | Easy | MUST SOLVE |
+| 1 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Solution](https://leetcode.com/problems/find-if-path-exists-in-graph/solutions/3665775/dfs/) | Easy | |
 | 1 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Solution](https://leetcode.com/problems/employee-importance/solutions/3665366/reference-in-cpp-nonlocal-in-python/) | Medium | |
