@@ -63,5 +63,6 @@ No |   Question  |  Solution   | Level |  Note |
 | :--| :--------| :--------| :-----| :-----|
 | 1 | [Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [Solution](https://leetcode.com/problems/flood-fill/solutions/3674065/dfs/) | Easy | MUST SOLVE |
 | 2 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Solution](https://leetcode.com/problems/find-if-path-exists-in-graph/solutions/3665775/dfs/) | Easy | |
-| 1 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Solution](https://leetcode.com/problems/number-of-islands/solutions/3676063/make-dfs-return-1-python/) | Medium | SYNTAX + MUST SOLVE | 
-| 2 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Solution](https://leetcode.com/problems/employee-importance/solutions/3665366/reference-in-cpp-nonlocal-in-python/) | Medium | |
+| 1 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Solution](https://leetcode.com/problems/number-of-islands/solutions/3676063/make-dfs-return-1-python/) | Medium | SYNTAX + MUST SOLVE | |
+| 2 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/) | [Solution](https://leetcode.com/problems/count-sub-islands/solutions/3681156/easiest-explanation-with-picture/) | Medium | SYNTAX + MUST SOLVE | |
+| 3 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Solution](https://leetcode.com/problems/employee-importance/solutions/3665366/reference-in-cpp-nonlocal-in-python/) | Medium | |
