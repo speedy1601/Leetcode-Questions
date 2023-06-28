@@ -59,7 +59,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 1 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/) | [Solution](https://leetcode.com/problems/find-center-of-star-graph/solutions/3612124/o-1-solution/) | Easy | |
 | 2 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/) | [Solution](https://leetcode.com/problems/find-the-town-judge/solutions/3666812/just-set-arr-0-1000-full-explanation/) | Easy | logic |
 
-##               DFS
+##               DFS (Solve These Q Serially)
 | No | Question | Solution | Level | Note |
 | :--| :--------| :--------| :-----| :-----|
 | 1 | [Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [Solution](https://leetcode.com/problems/flood-fill/solutions/3674065/dfs/) | Easy | MUST SOLVE |
@@ -68,4 +68,5 @@ No |   Question  |  Solution   | Level |  Note |
 | 2 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/) | [Solution](https://leetcode.com/problems/count-sub-islands/solutions/3681156/easiest-explanation-with-picture/) | Medium | SYNTAX + MUST SOLVE | 
 | 3 | [Coloring A Border](https://leetcode.com/problems/coloring-a-border/description/) | [Solution](https://leetcode.com/problems/coloring-a-border/solutions/3686098/detailed-explanation-with-pictures/) | Medium | MUST SOLVE |
 | 4 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) | [Solution](https://leetcode.com/problems/number-of-enclaves/solutions/3690171/full-explanation-with-pictures/) | Medium |  |
-| 5 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Solution](https://leetcode.com/problems/employee-importance/solutions/3665366/reference-in-cpp-nonlocal-in-python/) | Medium | |
+| 5 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | [Solution](https://leetcode.com/problems/number-of-closed-islands/solutions/3692445/same-as-enclaves/) | Medium | LOGIC |
+| 6 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Solution](https://leetcode.com/problems/employee-importance/solutions/3665366/reference-in-cpp-nonlocal-in-python/) | Medium | |
