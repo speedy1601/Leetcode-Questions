@@ -58,6 +58,7 @@ No |   Question  |  Solution   | Level |  Note |
 | :--| :--------| :--------| :-----| :-----|
 | 1 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/) | [Solution](https://leetcode.com/problems/find-center-of-star-graph/solutions/3612124/o-1-solution/) | Easy | |
 | 2 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/) | [Solution](https://leetcode.com/problems/find-the-town-judge/solutions/3666812/just-set-arr-0-1000-full-explanation/) | Easy | logic |
+| 1 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/description/) | [Solution](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/solutions/3704614/explanation-with-pictures/) | MEDIUM | LOGIC + MUST SOLVE |
 
 ##               DFS (Solve These Q Serially)
 | No | Question | Solution | Level | Note |
@@ -71,6 +72,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 5 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | [Solution](https://leetcode.com/problems/number-of-closed-islands/solutions/3692445/same-as-enclaves/) | Medium | LOGIC |
 | 6 | [DETECT CYCLES IN 2D GRID](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/) | [SOLUTION](https://leetcode.com/problems/detect-cycles-in-2d-grid/solutions/3694441/explanation-with-pictures/) | MEDIUM | LOGIC + MUST SOLVE |
 | 7 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | [Solution](https://leetcode.com/problems/find-all-groups-of-farmland/solutions/3700706/dfs-explanation-with-pictures/) | MEDIUM | LOGIC |
-| 8 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/) | [Solution](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/solutions/3696630/python-8-line-and-cpp-exchange-function/) | Medium | exchange in cpp |
-| 8 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Solution](https://leetcode.com/problems/max-area-of-island/solutions/3697213/same-as-2658/) | Medium | | 
+| 8 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/description/) | [Solution](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/solutions/3704614/explanation-with-pictures/) | MEDIUM | LOGIC + MUST SOLVE |
+| 9 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/) | [Solution](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/solutions/3696630/python-8-line-and-cpp-exchange-function/) | Medium | exchange in cpp |
+| 10 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Solution](https://leetcode.com/problems/max-area-of-island/solutions/3697213/same-as-2658/) | Medium | | 
 | _ | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Solution](https://leetcode.com/problems/employee-importance/solutions/3665366/reference-in-cpp-nonlocal-in-python/) | Medium | |
