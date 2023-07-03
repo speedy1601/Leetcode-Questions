@@ -9,7 +9,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 2 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Solution](https://leetcode.com/problems/longest-consecutive-sequence/solutions/3712785/2-solution/) | MEDIUM | LOGIC(MUST SOLVE) |
 | 1 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Solution](https://leetcode.com/problems/first-missing-positive/solutions/3579033/step-by-step-explanation-with-proof) | HARD | LOGIC (MUST SOLVE) |
 
-##                  Hashset
+##                  Hash Table
 No |   Question  |  Solution   | Level |  Note |
 | :--- | :-----------| :---------- | :------| :----- |
 | 1 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Solution](https://leetcode.com/problems/longest-consecutive-sequence/solutions/3712785/2-solution/) | MEDIUM | LOGIC(MUST SOLVE) |
