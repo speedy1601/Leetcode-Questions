@@ -83,3 +83,8 @@ No |   Question  |  Solution   | Level |  Note |
 | 10 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Solution](https://leetcode.com/problems/max-area-of-island/solutions/3697213/same-as-2658/) | Medium | |
 | 11 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/) | [Solution](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/solutions/3708912/dfs-with-succinct-explanation/) | MEDIUM | LOGIC |
 | _ | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Solution](https://leetcode.com/problems/employee-importance/solutions/3665366/reference-in-cpp-nonlocal-in-python/) | Medium | |
+
+##                               BFS
+| No | Question | Solution | Level | Note |
+| :--| :--------| :--------| :-----| :-----|
+| 1  | [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | [Solution](https://leetcode.com/problems/jump-game-iii/solutions/3757683/recursion-and-bfs/) | Medium | | 
