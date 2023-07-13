@@ -64,6 +64,7 @@ No |   Question  |  Solution   | Level |  Note |
 | :--| :--------| :--------| :-----| :-----|
 | 1 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/) | [Solution](https://leetcode.com/problems/find-center-of-star-graph/solutions/3612124/o-1-solution/) | Easy | |
 | 2 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/) | [Solution](https://leetcode.com/problems/find-the-town-judge/solutions/3666812/just-set-arr-0-1000-full-explanation/) | Easy | logic |
+| 3 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Solution](https://leetcode.com/problems/island-perimeter/solutions/3761075/5-line-python-7-line-cpp/) | Easy |
 | 1 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/description/) | [Solution](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/solutions/3704614/explanation-with-pictures/) | MEDIUM | LOGIC + MUST SOLVE |
 
 ##               DFS (Solve These Q Serially)
