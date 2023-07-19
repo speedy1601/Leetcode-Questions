@@ -90,3 +90,4 @@ No |   Question  |  Solution   | Level |  Note |
 | :--| :--------| :--------| :-----| :-----|
 | 1  | [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | [Solution](https://leetcode.com/problems/jump-game-iii/solutions/3757683/recursion-and-bfs/) | Medium | logic |
 | 2 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/) | [Solution](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/solutions/3781678/bfs/) | Medium | SHORTEST PATH FROM  A POSITION |
+| 3 | [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/description/) | [Solution](https://leetcode.com/problems/minimum-operations-to-convert-number/solutions/3786302/more-clear-bfs/) | Medium | MUST SOLVE |
