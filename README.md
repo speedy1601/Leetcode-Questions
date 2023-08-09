@@ -25,6 +25,7 @@ No |   Question  |  Solution   | Level |  Note |
 | :--- | :-----------| :---------- | :------| :----- |
 | 1 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)|[Solution](https://leetcode.com/problems/construct-the-rectangle/solutions/3672605/1-liner-python-and-3-liner-cpp/) | Easy | logic | 
 | 2 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Solution](https://leetcode.com/problems/missing-number/solutions/3681710/2-line-cpp-python/) | Easy | logic |
+| 3 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) |  [Solution](https://leetcode.com/problems/water-and-jug-problem/solutions/3886057/gcd-with-little-explanation/) | MEDIUM | BAZETT'S THEOREM + MUST SOLVE |
 
 ##                  Fibonacci
 
