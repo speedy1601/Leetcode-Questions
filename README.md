@@ -104,3 +104,9 @@ No |   Question  |  Solution   | Level |  Note |
 | 8 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) |  [Solution](https://leetcode.com/problems/water-and-jug-problem/solutions/3886057/gcd-with-little-explanation/) | MEDIUM | BAZETT'S THEOREM + MUST SOLVE |
 | 1 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Solution](https://leetcode.com/problems/sliding-puzzle/solutions/3887924/bfs-with-comment/) | HARD | LOGIC |
 | 2 | [Maximum Candies You Can Get From Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | [Solution](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/solutions/3892265/shortest-bfs-code-with-explanation/) | HARD | logic |
+
+                                      
+##                           Topological Sorting
+| No | Question | Solution | Level | Note |
+| :--| :--------| :--------| :-----| :-----|
+| 1 | [Course Schedule](https://leetcode.com/problems/course-schedule/description/) |[Solution](https://leetcode.com/problems/course-schedule/solutions/3904328/topo-sort-with-comment/) | Medium | MUST SOLVE |
