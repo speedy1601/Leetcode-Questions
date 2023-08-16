@@ -89,7 +89,9 @@ No |   Question  |  Solution   | Level |  Note |
 | 9 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/) | [Solution](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/solutions/3696630/python-8-line-and-cpp-exchange-function/) | Medium | exchange in cpp |
 | 10 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Solution](https://leetcode.com/problems/max-area-of-island/solutions/3697213/same-as-2658/) | Medium | |
 | 11 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/) | [Solution](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/solutions/3708912/dfs-with-succinct-explanation/) | MEDIUM | LOGIC |
-| _ | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Solution](https://leetcode.com/problems/employee-importance/solutions/3665366/reference-in-cpp-nonlocal-in-python/) | Medium | |
+| 12 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Solution](https://leetcode.com/problems/employee-importance/solutions/3665366/reference-in-cpp-nonlocal-in-python/) | Medium | |
+| 1 | [The Longest Increasing Path In A Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/solutions/3918932/dfs-topological-sorting/) | HARD | MUST MUST SOLVEEEEEEEEEEE |
+
 
 ##                               BFS
 | No | Question | Solution | Level | Note |
@@ -110,3 +112,4 @@ No |   Question  |  Solution   | Level |  Note |
 | No | Question | Solution | Level | Note |
 | :--| :--------| :--------| :-----| :-----|
 | 1 | [Course Schedule](https://leetcode.com/problems/course-schedule/description/) |[Solution](https://leetcode.com/problems/course-schedule/solutions/3904328/topo-sort-with-comment/) | Medium | MUST SOLVE |
+| 2 | [The Longest Increasing Path In A Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/solutions/3918932/dfs-topological-sorting/) | HARD | MUST MUST SOLVEEEEEEEEEEE |
