@@ -108,7 +108,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 2 | [Maximum Candies You Can Get From Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | [Solution](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/solutions/3892265/shortest-bfs-code-with-explanation/) | HARD | logic |
 
                                       
-##                           Topological Sorting
+##                           Topological Sorting (Must Solve)
 | No | Question | Solution | Level | Note |
 | :--| :--------| :--------| :-----| :-----|
 | 1 | [Course Schedule](https://leetcode.com/problems/course-schedule/description/) |[Solution](https://leetcode.com/problems/course-schedule/solutions/3904328/topo-sort-with-comment/) | Medium | MUST SOLVE |
