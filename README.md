@@ -112,5 +112,6 @@ No |   Question  |  Solution   | Level |  Note |
 | No | Question | Solution | Level | Note |
 | :--| :--------| :--------| :-----| :-----|
 | 1 | [Course Schedule](https://leetcode.com/problems/course-schedule/description/) |[Solution](https://leetcode.com/problems/course-schedule/solutions/3904328/topo-sort-with-comment/) | Medium | MUST SOLVE |
-| 2 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/) | [Solution](https://leetcode.com/problems/minimum-height-trees/solutions/3922500/topo-sort-with-clear-explanation/) | MEDIUM | MUST MUST SOLVEEEEEEEEE |
-| 2 | [The Longest Increasing Path In A Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/solutions/3918932/dfs-topological-sorting-clear-explanation/) | HARD | MUST MUST SOLVEEEEEEEEEEE |
+| 2 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) | [Solution](https://leetcode.com/problems/course-schedule-ii/solutions/3925588/topological-sorting/) | Medium | |
+| 3 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/) | [Solution](https://leetcode.com/problems/minimum-height-trees/solutions/3922500/topo-sort-with-clear-explanation/) | MEDIUM | MUST MUST SOLVEEEEEEEEE |
+| 1 | [The Longest Increasing Path In A Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/solutions/3918932/dfs-topological-sorting-clear-explanation/) | HARD | MUST MUST SOLVEEEEEEEEEEE |
