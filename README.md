@@ -32,7 +32,7 @@ No |   Question  |  Solution   | Level |  Note |
 No |   Question  |  Solution   | Level |
 | :---- | :-----------| :---------- | :------|
 | 1 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](https://leetcode.com/problems/fibonacci-number/solutions/3530393/lru-cache-explanation/) | Easy
-| 2 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | [Solution](https://leetcode.com/problems/climbing-stairs/solutions/3529601/explanation-via-practical-example/?orderBy=most_votes) | Easy
+| 2 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | [Solution](https://leetcode.com/problems/climbing-stairs/solutions/3529601/solution/) | Easy | MUST SOLVE | 
 
                      
 
