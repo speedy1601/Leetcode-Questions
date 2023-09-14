@@ -29,12 +29,16 @@ No |   Question  |  Solution   | Level |  Note |
 
 ##                  Fibonacci  (Dynamic Programming)
 
-No |   Question  |  Solution   | Level |
+No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------|
-| 1 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](https://leetcode.com/problems/fibonacci-number/solutions/3530393/lru-cache-explanation/) | Easy
+| 1 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](https://leetcode.com/problems/fibonacci-number/solutions/3530393/lru-cache-explanation/) | Easy | |
 | 2 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | [Solution](https://leetcode.com/problems/climbing-stairs/solutions/3529601/solution/) | Easy | MUST SOLVE |
 | 3 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Solution](https://leetcode.com/problems/min-cost-climbing-stairs/solutions/4017556/3-solution-with-explanation/) | EASY | 3 WAY TO SOLVE |
 
+##                  LONGEST INCREASING SUBSEQUENCE (DP)
+No |   Question  |  Solution   | Level | Note |
+| :---- | :-----------| :---------- | :------|
+| 1 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [SOLUTION](https://leetcode.com/problems/longest-increasing-subsequence/solutions/4043266/with-detailed-explanation/) | MEDIUM | Logic |
                      
 
 ##                  Sorting 
