@@ -38,7 +38,7 @@ No |   Question  |  Solution   | Level | Note |
 ##                  LONGEST INCREASING SUBSEQUENCE (DP, PATIENT SORT)
 No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------|
-| 1 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [SOLUTION](https://leetcode.com/problems/longest-increasing-subsequence/solutions/4043266/dp-and-binary-search-with-detailed-explanation/) | MEDIUM | BEFORE DYING SOLVE THIS BEAUTIFUL QUESTION |
+| 1 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [SOLUTION](https://leetcode.com/problems/longest-increasing-subsequence/solutions/4043266/dp-and-binary-search-with-detailed-explanation/) | MEDIUM | BEFORE YOU DIE SOLVE THIS BEAUTIFUL QUESTION |
                      
 
 ##                  Sorting 
