@@ -38,7 +38,7 @@ No |   Question  |  Solution   | Level | Note |
 ##                  LONGEST INCREASING SUBSEQUENCE (DP)
 No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------|
-| 1 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [SOLUTION](https://leetcode.com/problems/longest-increasing-subsequence/solutions/4043266/with-detailed-explanation/) | MEDIUM | Logic |
+| 1 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [SOLUTION](https://leetcode.com/problems/longest-increasing-subsequence/solutions/4043266/dp-with-detailed-explanation/) | MEDIUM | Logic |
                      
 
 ##                  Sorting 
