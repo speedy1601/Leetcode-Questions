@@ -40,6 +40,10 @@ No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :------|
 | 1 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [SOLUTION](https://leetcode.com/problems/longest-increasing-subsequence/solutions/4043266/dp-and-binary-search-with-detailed-explanation/) | MEDIUM | BEFORE YOU DIE SOLVE THIS BEAUTIFUL QUESTION |
                      
+##                  LONGEST COMMON SUBSEQUENCE (DP)
+No |   Question  |  Solution   | Level | Note |
+| :---- | :-----------| :---------- | :------| :------|
+| 1 | [Longest Common subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) | [SOLUTION](https://leetcode.com/problems/longest-common-subsequence/solutions/4055756/full-explanation-with-pictures/) | MEDIUM | FULL THEORY EXPLAINED |
 
 ##                  Sorting 
 No |   Question  |  Solution   | Level |  Note |
