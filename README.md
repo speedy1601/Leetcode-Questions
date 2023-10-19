@@ -45,6 +45,7 @@ No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :------|
 | 1 | [Longest Common subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) | [SOLUTION](https://leetcode.com/problems/longest-common-subsequence/solutions/4055756/full-explanation-with-pictures/) | MEDIUM | FULL THEORY EXPLAINED |
 | 2 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) | [Solution](https://leetcode.com/problems/longest-palindromic-subsequence/solutions/4082024/longest-common-subsequence/) | Medium | |
+| 3 | [Maximize Number Of Subsequences In A String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/description/) | [Solution](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/solutions/4186939/with-explanation/) | Medium | Smart Logic | 
 
 ##                  Sorting 
 No |   Question  |  Solution   | Level |  Note |
