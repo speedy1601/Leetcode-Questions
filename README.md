@@ -27,6 +27,11 @@ No |   Question  |  Solution   | Level |  Note |
 | 2 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Solution](https://leetcode.com/problems/missing-number/solutions/3681710/2-line-cpp-python/) | Easy | logic |
 | 3 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) |  [Solution](https://leetcode.com/problems/water-and-jug-problem/solutions/3886057/gcd-with-little-explanation/) | MEDIUM | BAZETT'S THEOREM + MUST SOLVE |
 
+##                  Normal DP  (Dynamic Programming)
+No |   Question  |  Solution   | Level | Note |
+| :---- | :-----------| :---------- | :------| :-----|
+| 1 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Solution](https://leetcode.com/problems/partition-equal-subset-sum/solutions/4200361/with-explanation/) | Medium | Direct Brute Force |
+
 ##                  Fibonacci  (Dynamic Programming)
 
 No |   Question  |  Solution   | Level | Note |
