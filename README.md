@@ -31,6 +31,7 @@ No |   Question  |  Solution   | Level |  Note |
 No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :-----|
 | 1 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Solution](https://leetcode.com/problems/partition-equal-subset-sum/solutions/4200361/with-explanation/) | Medium | Direct Brute Force |
+| 2 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](https://leetcode.com/problems/house-robber/solutions/4204950/full-explanation-with-pictures/) | Medium | With 3 Variables |
 
 ##                  Fibonacci  (Dynamic Programming)
 
@@ -39,6 +40,7 @@ No |   Question  |  Solution   | Level | Note |
 | 1 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](https://leetcode.com/problems/fibonacci-number/solutions/3530393/lru-cache-explanation/) | Easy | |
 | 2 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | [Solution](https://leetcode.com/problems/climbing-stairs/solutions/3529601/solution/) | Easy | MUST SOLVE |
 | 3 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Solution](https://leetcode.com/problems/min-cost-climbing-stairs/solutions/4017556/3-solution-with-explanation/) | EASY | 3 WAY TO SOLVE |
+| 1 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](https://leetcode.com/problems/house-robber/solutions/4204950/full-explanation-with-pictures/) | Medium | With 3 Variables |
 
 ##                  LONGEST INCREASING SUBSEQUENCE (DP, PATIENT SORT)
 No |   Question  |  Solution   | Level | Note |
