@@ -34,7 +34,7 @@ No |   Question  |  Solution   | Level | Note |
 | 1 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Solution](https://leetcode.com/problems/partition-equal-subset-sum/solutions/4200361/with-explanation/) | Medium | Direct Brute Force |
 | 2 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](https://leetcode.com/problems/house-robber/solutions/4204950/full-explanation-with-pictures/) | Medium | With 3 Variables |
 | 3 | [Best Time To Buy And Sell Stock With Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solutions/4219770/with-the-yt-link-of-the-amazing-explanation/) | Medium | 3 STATE MACHINE ALGORITHM, RECURSION THEORY EXPLAINED |
-| 4 | [Best Time To Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/4258064/2-state-machine/) | Medium | 2 State Machine |
+| 4 | [Best Time To Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/4258064/2-state-machine/) | Medium |  2 State Machine |
 
 ##                  Fibonacci  (Dynamic Programming)
 
