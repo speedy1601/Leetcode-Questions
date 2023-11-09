@@ -37,6 +37,11 @@ No |   Question  |  Solution   | Level | Note |
 | 4 | [Best Time To Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/4258064/2-state-machine/) | Medium |  2 State Machine |
 | 1 | [Best Time To Buy And Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/4262072/explained-with-picture/) | Hard| Buy and Sell Atmost K Transactions |
 
+##                  Backtracking
+No |   Question  |  Solution   | Level | Note |
+| :---- | :-----------| :---------- | :------| :-----|
+| 1 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](https://leetcode.com/problems/target-sum/solutions/4270014/backtracking-with-memoization-with-pictures/) | Medium | |
+
 ##                  Fibonacci  (Dynamic Programming)
 
 No |   Question  |  Solution   | Level | Note |
