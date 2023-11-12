@@ -37,6 +37,7 @@ No |   Question  |  Solution   | Level | Note |
 | 4 | [Best Time To Buy And Sell Stock With Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solutions/4219770/with-the-yt-link-of-the-amazing-explanation/) | Medium | 3 STATE MACHINE ALGORITHM, RECURSION THEORY EXPLAINED |
 | 5 | [Best Time To Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/4258064/2-state-machine/) | Medium |  2 State Machine |
 | 6 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | [Solution](https://leetcode.com/problems/minimum-cost-for-tickets/solutions/4273863/dp-memoization/) | Medium | |
+| 7 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](https://leetcode.com/problems/longest-palindromic-substring/solutions/4279254/2-pointers/) | Medium | 2 Pointers |
 | 1 | [Best Time To Buy And Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/4262072/explained-with-picture/) | Hard | Buy and Sell Atmost K Transactions |
 
 ##                  Backtracking
