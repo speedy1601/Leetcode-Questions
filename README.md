@@ -39,6 +39,7 @@ No |   Question  |  Solution   | Level | Note |
 | 6 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | [Solution](https://leetcode.com/problems/minimum-cost-for-tickets/solutions/4273863/dp-memoization/) | Medium | |
 | 7 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](https://leetcode.com/problems/longest-palindromic-substring/solutions/4279254/2-pointers/) | Medium | 2 Pointers |
 | 8 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Solution](https://leetcode.com/problems/palindromic-substrings/solutions/4279761/solution/) | Medium | |
+| 9 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [SOLUTION](https://leetcode.com/problems/decode-ways/solutions/4284235/from-recursion-to-o-1-space-explanation/) | Medium | Shown How To Go From Recursion DP to Iterative DP |
 | 1 | [Best Time To Buy And Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/4262072/explained-with-picture/) | Hard | Buy and Sell Atmost K Transactions |
 
 ##                  Backtracking
