@@ -151,3 +151,11 @@ No |   Question  |  Solution   | Level |  Note |
 | 1 | [The Longest Increasing Path In A Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/solutions/3918932/dfs-topological-sorting-clear-explanation/) | HARD | MUST MUST SOLVEEEEEEEEEEE |
 | 2 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) | [Solution](https://leetcode.com/problems/parallel-courses-iii/solutions/3932664/topological-sorting-plain-logic/) | Hard | |
 | 3 | [Largest Color Value In A Directed graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) | [SOLUTION](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/solutions/3945317/topological-sorting/) | MUST MUST SOLVEEEEEEEEEE |
+
+
+## Problem's solution I found so simple and satisfying but maybe hard to think.
+
+| No | Question | Solution | Level | Note |
+| :--| :--------| :--------| :-----| :-----|
+| 1 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-product-subarray/solutions/4290514/with-simple-explanation/) | Medium | Simple but Elegant |
+| 1 | [Best Time To Buy And Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/4262072/explained-with-picture/) | Hard | Buy and Sell Atmost K Transactions |
