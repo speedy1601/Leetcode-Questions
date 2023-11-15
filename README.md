@@ -42,6 +42,7 @@ No |   Question  |  Solution   | Level | Note |
 | 9 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [SOLUTION](https://leetcode.com/problems/decode-ways/solutions/4284235/from-recursion-to-o-1-space-explanation/) | Medium | Shown How To Go From Recursion DP to Iterative DP |
 | 10 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | [SOLUTION](https://leetcode.com/problems/coin-change/solutions/4287904/solution/) | Medium | A Very Important DP Q |
 | 11 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-product-subarray/solutions/4290514/with-simple-explanation/) | Medium | Simple but Elegant |
+| 12 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-subarray/solutions/4292009/with-simple-explanation/) | Medium | Simple but Elegant |
 | 1 | [Best Time To Buy And Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/4262072/explained-with-picture/) | Hard | Buy and Sell Atmost K Transactions |
 
 ##                  Backtracking
