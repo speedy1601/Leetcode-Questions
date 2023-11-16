@@ -44,6 +44,7 @@ No |   Question  |  Solution   | Level | Note |
 | 11 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-product-subarray/solutions/4290514/with-simple-explanation/) | Medium | Simple but Elegant |
 | 12 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-subarray/solutions/4292009/with-simple-explanation/) | Medium | Simple but Elegant |
 | 13 | [Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](https://leetcode.com/problems/word-break/solutions/4294569/solution/) | Medium | Simple but Elegant |
+| 14 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](https://leetcode.com/problems/unique-paths/solutions/4295597/with-explanation/) | Medium | 2D DP |
 | 1 | [Best Time To Buy And Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/4262072/explained-with-picture/) | Hard | Buy and Sell Atmost K Transactions |
 
 ##                  Backtracking
