@@ -161,4 +161,5 @@ No |   Question  |  Solution   | Level |  Note |
 | :--| :--------| :--------| :-----| :-----|
 | 1 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-product-subarray/solutions/4290514/with-simple-explanation/) | Medium | |
 | 2 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-subarray/solutions/4292009/with-simple-explanation/) | Medium | |
+| 3 | [Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](https://leetcode.com/problems/word-break/solutions/4294569/solution/) | Medium | |
 | 1 | [Best Time To Buy And Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/4262072/explained-with-picture/) | Hard | |
