@@ -47,6 +47,7 @@ No |   Question  |  Solution   | Level | Note |
 | 14 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](https://leetcode.com/problems/unique-paths/solutions/4295597/with-explanation/) | Medium | 2D DP |
 | 15 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | [Solution](https://leetcode.com/problems/integer-break/solutions/4296522/explanation-with-pictures/) | Medium | |
 | 16 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [Solution](https://leetcode.com/problems/perfect-squares/solutions/4302272/solution/) | Medium | |
+| 17 | [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) | [Solution](https://leetcode.com/problems/partition-array-for-maximum-sum/solutions/4316699/bottom-up-dp-memoization/) | Medium |
 | 1 | [Best Time To Buy And Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/4262072/explained-with-picture/) | Hard | Buy and Sell Atmost K Transactions |
 
 ##                  Backtracking
