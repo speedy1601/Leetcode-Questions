@@ -50,6 +50,12 @@ No |   Question  |  Solution   | Level | Note |
 | 17 | [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) | [Solution](https://leetcode.com/problems/partition-array-for-maximum-sum/solutions/4316699/bottom-up-dp-memoization/) | Medium |
 | 1 | [Best Time To Buy And Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/4262072/explained-with-picture/) | Hard | Buy and Sell Atmost K Transactions |
 
+##                  0/1 Knapsack
+No |   Question  |  Solution   | Level | Note |
+| :---- | :-----------| :---------- | :------| :-----|
+| 1 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Solution](https://leetcode.com/problems/partition-equal-subset-sum/solutions/4200361/with-explanation/) | Medium | |
+| 2 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](https://leetcode.com/problems/target-sum/solutions/4270014/backtracking-with-memoization-with-pictures/) | Medium | |
+
 ##                  Backtracking
 No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :-----|
