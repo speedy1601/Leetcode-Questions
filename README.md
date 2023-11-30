@@ -61,6 +61,7 @@ No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :-----|
 | 1 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](https://leetcode.com/problems/target-sum/solutions/4270014/backtracking-with-memoization-with-pictures/) | Medium | |
 | 2 | [Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](https://leetcode.com/problems/subsets/solutions/4343509/backtracking-bit-manipulation/) | Medium | |
+| 3 | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) | [Solution](https://leetcode.com/problems/subsets-ii/solutions/4346389/explanation-with-pictures/) | Medium | Tricky Logic | 
 
 ##                  Fibonacci  (Dynamic Programming)
 
