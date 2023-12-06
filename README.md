@@ -64,7 +64,7 @@ No |   Question  |  Solution   | Level | Note |
 | 3 | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) | [Solution](https://leetcode.com/problems/subsets-ii/solutions/4346389/explanation-with-pictures/) | Medium | Tricky Logic | 
 | 4 | [Combinations](https://leetcode.com/problems/combinations/description/) | [Solution](https://leetcode.com/problems/combinations/solutions/4349522/backtracking/) | Medium | |
 
-##                  Fibonacci  (Dynamic Programming)
+##                  Fibonacci Style DP
 
 No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :-----|
@@ -72,6 +72,8 @@ No |   Question  |  Solution   | Level | Note |
 | 2 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | [Solution](https://leetcode.com/problems/climbing-stairs/solutions/3529601/solution/) | Easy | MUST SOLVE |
 | 3 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Solution](https://leetcode.com/problems/min-cost-climbing-stairs/solutions/4017556/3-solution-with-explanation/) | EASY | 3 WAY TO SOLVE |
 | 1 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](https://leetcode.com/problems/house-robber/solutions/4204950/full-explanation-with-pictures/) | Medium | With 3 Variables |
+| 2 | [Delete And Earn](https://leetcode.com/problems/delete-and-earn/description/) | [Solution](https://leetcode.com/problems/delete-and-earn/solutions/4370504/fibonacci-style-solution/) | Medium | |
+
 
 ##                  LONGEST INCREASING SUBSEQUENCE (DP, PATIENT SORT)
 No |   Question  |  Solution   | Level | Note |
@@ -176,4 +178,5 @@ No |   Question  |  Solution   | Level |  Note |
 | 2 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-subarray/solutions/4292009/with-simple-explanation/) | Medium | |
 | 3 | [Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](https://leetcode.com/problems/word-break/solutions/4294569/solution/) | Medium | |
 | 4 | [Combinations](https://leetcode.com/problems/combinations/description/) | [Solution](https://leetcode.com/problems/combinations/solutions/4349522/backtracking/) | Medium | |
+| 5 | [Delete And Earn](https://leetcode.com/problems/delete-and-earn/description/) | [Solution](https://leetcode.com/problems/delete-and-earn/solutions/4370504/fibonacci-style-solution/) | Medium | |
 | 1 | [Best Time To Buy And Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/4262072/explained-with-picture/) | Hard | |
