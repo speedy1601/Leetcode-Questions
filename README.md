@@ -54,7 +54,7 @@ No |   Question  |  Solution   | Level | Note |
 No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :-----|
 | 1 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Solution](https://leetcode.com/problems/partition-equal-subset-sum/solutions/4200361/with-explanation/) | Medium | |
-| 2 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](https://leetcode.com/problems/target-sum/solutions/4270014/backtracking-with-memoization-with-pictures/) | Medium | |
+| 2 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](https://leetcode.com/problems/target-sum/solutions/4270014/backtracking-knapsack01) | Medium | |
 
 ##                  Backtracking
 No |   Question  |  Solution   | Level | Note |
@@ -170,7 +170,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 3 | [Largest Color Value In A Directed graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) | [SOLUTION](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/solutions/3945317/topological-sorting/) | MUST MUST SOLVEEEEEEEEEE |
 
 
-## Problem's solution I found so simple and satisfying but maybe hard to think.
+## Problem's solution I found so simple or little bit unique from the normal concept and satisfying but maybe hard to think.
 
 | No | Question | Solution | Level | Note |
 | :--| :--------| :--------| :-----| :-----|
@@ -179,4 +179,5 @@ No |   Question  |  Solution   | Level |  Note |
 | 3 | [Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](https://leetcode.com/problems/word-break/solutions/4294569/solution/) | Medium | |
 | 4 | [Combinations](https://leetcode.com/problems/combinations/description/) | [Solution](https://leetcode.com/problems/combinations/solutions/4349522/backtracking/) | Medium | |
 | 5 | [Delete And Earn](https://leetcode.com/problems/delete-and-earn/description/) | [Solution](https://leetcode.com/problems/delete-and-earn/solutions/4370504/fibonacci-style-solution/) | Medium | |
+| 6 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](https://leetcode.com/problems/target-sum/solutions/4270014/backtracking-knapsack01) | Medium | |
 | 1 | [Best Time To Buy And Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/4262072/explained-with-picture/) | Hard | |
