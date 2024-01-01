@@ -31,30 +31,38 @@ No |   Question  |  Solution   | Level |  Note |
 No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :-----|
 | 1 | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/4208757/2-ways-with-a-little-explanation/) | Easy | Simple, Yet Cool |
-| 1 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Solution](https://leetcode.com/problems/partition-equal-subset-sum/solutions/4200361/with-explanation/) | Medium | Direct Brute Force |
-| 2 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](https://leetcode.com/problems/house-robber/solutions/4204950/full-explanation-with-pictures/) | Medium | With 3 Variables |
-| 3 | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | [Solution](https://leetcode.com/problems/house-robber-ii/solutions/4276291/2-sub-problems/) | Medium | |
-| 4 | [Best Time To Buy And Sell Stock With Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solutions/4219770/with-the-yt-link-of-the-amazing-explanation/) | Medium | 3 STATE MACHINE ALGORITHM, RECURSION THEORY EXPLAINED |
-| 5 | [Best Time To Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/4258064/2-state-machine/) | Medium |  2 State Machine |
-| 6 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | [Solution](https://leetcode.com/problems/minimum-cost-for-tickets/solutions/4273863/dp-memoization/) | Medium | |
-| 7 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](https://leetcode.com/problems/longest-palindromic-substring/solutions/4279254/2-pointers/) | Medium | 2 Pointers |
-| 8 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Solution](https://leetcode.com/problems/palindromic-substrings/solutions/4279761/solution/) | Medium | |
-| 9 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [SOLUTION](https://leetcode.com/problems/decode-ways/solutions/4284235/from-recursion-to-o-1-space-explanation/) | Medium | Shown How To Go From Recursion DP to Iterative DP |
-| 10 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | [SOLUTION](https://leetcode.com/problems/coin-change/solutions/4287904/solution/) | Medium | A Very Important DP Q |
-| 11 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-product-subarray/solutions/4290514/with-simple-explanation/) | Medium | Simple but Elegant |
-| 12 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-subarray/solutions/4292009/with-simple-explanation/) | Medium | Simple but Elegant |
-| 13 | [Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](https://leetcode.com/problems/word-break/solutions/4294569/solution/) | Medium | Simple but Elegant |
-| 14 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](https://leetcode.com/problems/unique-paths/solutions/4295597/with-explanation/) | Medium | 2D DP |
-| 15 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | [Solution](https://leetcode.com/problems/integer-break/solutions/4296522/explanation-with-pictures/) | Medium | |
-| 16 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [Solution](https://leetcode.com/problems/perfect-squares/solutions/4302272/solution/) | Medium | |
-| 17 | [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) | [Solution](https://leetcode.com/problems/partition-array-for-maximum-sum/solutions/4316699/bottom-up-dp-memoization/) | Medium |
+| 1 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](https://leetcode.com/problems/house-robber/solutions/4204950/full-explanation-with-pictures/) | Medium | With 3 Variables |
+| 2 | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | [Solution](https://leetcode.com/problems/house-robber-ii/solutions/4276291/2-sub-problems/) | Medium | |
+| 3 | [Best Time To Buy And Sell Stock With Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solutions/4219770/with-the-yt-link-of-the-amazing-explanation/) | Medium | 3 STATE MACHINE ALGORITHM, RECURSION THEORY EXPLAINED |
+| 4 | [Best Time To Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/4258064/2-state-machine/) | Medium |  2 State Machine |
+| 5 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | [Solution](https://leetcode.com/problems/minimum-cost-for-tickets/solutions/4273863/dp-memoization/) | Medium | |
+| 6 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](https://leetcode.com/problems/longest-palindromic-substring/solutions/4279254/2-pointers/) | Medium | 2 Pointers |
+| 7 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Solution](https://leetcode.com/problems/palindromic-substrings/solutions/4279761/solution/) | Medium | |
+| 8 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [SOLUTION](https://leetcode.com/problems/decode-ways/solutions/4284235/from-recursion-to-o-1-space-explanation/) | Medium | Shown How To Go From Recursion DP to Iterative DP |
+| 9 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | [SOLUTION](https://leetcode.com/problems/coin-change/solutions/4287904/solution/) | Medium | A Very Important DP Q |
+| 10 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-product-subarray/solutions/4290514/with-simple-explanation/) | Medium | Simple but Elegant |
+| 11 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-subarray/solutions/4292009/with-simple-explanation/) | Medium | Simple but Elegant |
+| 12 | [Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](https://leetcode.com/problems/word-break/solutions/4294569/solution/) | Medium | Simple but Elegant |
+| 13 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](https://leetcode.com/problems/unique-paths/solutions/4295597/with-explanation/) | Medium | 2D DP |
+| 14 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | [Solution](https://leetcode.com/problems/integer-break/solutions/4296522/explanation-with-pictures/) | Medium | |
+| 15 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [Solution](https://leetcode.com/problems/perfect-squares/solutions/4302272/solution/) | Medium | |
+| 16| [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) | [Solution](https://leetcode.com/problems/partition-array-for-maximum-sum/solutions/4316699/bottom-up-dp-memoization/) | Medium |
 | 1 | [Best Time To Buy And Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/4262072/explained-with-picture/) | Hard | Buy and Sell Atmost K Transactions |
 
-##                  0/1 Knapsack
+##                  0/1 Knapsack (Bounded Knapsack)
 No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :-----|
 | 1 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Solution](https://leetcode.com/problems/partition-equal-subset-sum/solutions/4200361/with-explanation/) | Medium | |
 | 2 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](https://leetcode.com/problems/target-sum/solutions/4270014/backtracking-knapsack01) | Medium | |
+
+
+
+##                  Unbounded Knapsack
+No |   Question  |  Solution   | Level | Note |
+| :---- | :-----------| :---------- | :------| :-----|
+| 1 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | [SOLUTION](https://leetcode.com/problems/coin-change/solutions/4287904/unbounded-knapsack) | Medium | |
+
+
 
 ##                  Backtracking
 No |   Question  |  Solution   | Level | Note |
