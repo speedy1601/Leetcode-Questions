@@ -61,6 +61,7 @@ No |   Question  |  Solution   | Level | Note |
 No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :-----|
 | 1 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | [SOLUTION](https://leetcode.com/problems/coin-change/solutions/4287904/unbounded-knapsack) | Medium | |
+| 2 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/) | [SOLUTION](https://leetcode.com/problems/coin-change-ii/solutions/4492798/unbounded-knapsack) | Medium | |
 
 
 
