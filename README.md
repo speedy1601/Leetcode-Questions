@@ -64,6 +64,10 @@ No |   Question  |  Solution   | Level | Note |
 | 2 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/) | [SOLUTION](https://leetcode.com/problems/coin-change-ii/solutions/4492798/unbounded-knapsack) | Medium | |
 
 
+##                  DP Tabulation(without knapsack's tabulation table)
+No |   Question  |  Solution   | Level | Note |
+| :---- | :-----------| :---------- | :------| :-----|
+| 1 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [SOLUTION](https://leetcode.com/problems/edit-distance/solutions/4518830/dp-tabulation) | Medium | ONE OF THE AMAZING AND IMPORTANT DP Q |
 
 ##                  Backtracking
 No |   Question  |  Solution   | Level | Note |
@@ -89,7 +93,7 @@ No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :------|
 | 1 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [SOLUTION](https://leetcode.com/problems/longest-increasing-subsequence/solutions/4043266/dp-and-binary-search-with-detailed-explanation/) | MEDIUM | BEFORE YOU DIE SOLVE THIS BEAUTIFUL QUESTION |
 | 1 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) | [SOLUTION](https://leetcode.com/problems/russian-doll-envelopes/solutions/4516670/binary-search) | Hard | This Q helps more to understand LIS | 
-                     
+                    
 ##                  LONGEST COMMON SUBSEQUENCE (DP)
 No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :------|
