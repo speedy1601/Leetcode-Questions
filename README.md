@@ -88,6 +88,7 @@ No |   Question  |  Solution   | Level | Note |
 No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :------|
 | 1 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [SOLUTION](https://leetcode.com/problems/longest-increasing-subsequence/solutions/4043266/dp-and-binary-search-with-detailed-explanation/) | MEDIUM | BEFORE YOU DIE SOLVE THIS BEAUTIFUL QUESTION |
+| 1 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) | [SOLUTION](https://leetcode.com/problems/russian-doll-envelopes/solutions/4516670/binary-search) | Hard | This Q helps more to understand LIS | 
                      
 ##                  LONGEST COMMON SUBSEQUENCE (DP)
 No |   Question  |  Solution   | Level | Note |
