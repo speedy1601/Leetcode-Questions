@@ -69,6 +69,7 @@ No |   Question  |  Solution   | Level | Note |
 | 1 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [SOLUTION](https://leetcode.com/problems/edit-distance/solutions/4518830/dp-tabulation) | Medium | ONE OF THE AMAZING AND IMPORTANT DP Q |
 | 2 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](https://leetcode.com/problems/unique-paths/solutions/4295597/with-explanation/) | Medium | |
 | 3 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [Solution](https://leetcode.com/problems/unique-paths-ii/solutions/4530536/with-explanation/) | Medium | |
+| 4 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Solution](https://leetcode.com/problems/minimum-path-sum/solutions/4530823/same-as-unique-paths) | Medium | Prerequisite : Above 2 Qs |
 
 ##                  Backtracking
 No |   Question  |  Solution   | Level | Note |
