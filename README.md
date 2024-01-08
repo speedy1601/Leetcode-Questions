@@ -43,10 +43,9 @@ No |   Question  |  Solution   | Level | Note |
 | 10 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-product-subarray/solutions/4290514/with-simple-explanation/) | Medium | Simple but Elegant |
 | 11 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-subarray/solutions/4292009/with-simple-explanation/) | Medium | Simple but Elegant |
 | 12 | [Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](https://leetcode.com/problems/word-break/solutions/4294569/solution/) | Medium | Simple but Elegant |
-| 13 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](https://leetcode.com/problems/unique-paths/solutions/4295597/with-explanation/) | Medium | 2D DP |
-| 14 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | [Solution](https://leetcode.com/problems/integer-break/solutions/4296522/explanation-with-pictures/) | Medium | |
-| 15 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [Solution](https://leetcode.com/problems/perfect-squares/solutions/4302272/solution/) | Medium | |
-| 16| [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) | [Solution](https://leetcode.com/problems/partition-array-for-maximum-sum/solutions/4316699/bottom-up-dp-memoization/) | Medium |
+| 13 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | [Solution](https://leetcode.com/problems/integer-break/solutions/4296522/explanation-with-pictures/) | Medium | |
+| 14 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [Solution](https://leetcode.com/problems/perfect-squares/solutions/4302272/solution/) | Medium | |
+| 15| [Partition Array For Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) | [Solution](https://leetcode.com/problems/partition-array-for-maximum-sum/solutions/4316699/bottom-up-dp-memoization/) | Medium |
 | 1 | [Best Time To Buy And Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/4262072/explained-with-picture/) | Hard | Buy and Sell Atmost K Transactions |
 
 ##                  0/1 Knapsack (Bounded Knapsack)
@@ -68,6 +67,8 @@ No |   Question  |  Solution   | Level | Note |
 No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :-----|
 | 1 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [SOLUTION](https://leetcode.com/problems/edit-distance/solutions/4518830/dp-tabulation) | Medium | ONE OF THE AMAZING AND IMPORTANT DP Q |
+| 2 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](https://leetcode.com/problems/unique-paths/solutions/4295597/with-explanation/) | Medium | |
+| 3 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [Solution](https://leetcode.com/problems/unique-paths-ii/solutions/4530536/with-explanation/) | Medium | |
 
 ##                  Backtracking
 No |   Question  |  Solution   | Level | Note |
