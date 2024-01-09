@@ -70,8 +70,11 @@ No |   Question  |  Solution   | Level | Note |
 | 2 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](https://leetcode.com/problems/unique-paths/solutions/4295597/with-explanation/) | Medium | |
 | 3 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [Solution](https://leetcode.com/problems/unique-paths-ii/solutions/4530536/with-explanation/) | Medium | |
 | 4 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Solution](https://leetcode.com/problems/minimum-path-sum/solutions/4530823/same-as-unique-paths) | Medium | Prerequisite : Above 2 Qs |
-
 | 5 | [Maximal Square](https://leetcode.com/problems/maximal-square/description/) | [SOLUTION](https://leetcode.com/problems/maximal-square/submissions/1141462401) | Medium | `A Q THAT MAKES CLEAR THE ESSENCE OF DP` |
+| 6 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/) | [Solution](https://leetcode.com/problems/minimum-falling-path-sum/solutions/4537268/with-explanation) | Medium | |
+
+
+
 ##                  Backtracking
 No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :-----|
