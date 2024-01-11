@@ -63,7 +63,7 @@ No |   Question  |  Solution   | Level | Note |
 | 2 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/) | [SOLUTION](https://leetcode.com/problems/coin-change-ii/solutions/4492798/unbounded-knapsack) | Medium | |
 
 
-##                  DP Tabulation(without knapsack's tabulation table)
+##                  DP On Grid
 No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :-----|
 | 1 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [SOLUTION](https://leetcode.com/problems/edit-distance/solutions/4518830/dp-tabulation) | Medium | ONE OF THE AMAZING AND IMPORTANT DP Q |
@@ -72,6 +72,7 @@ No |   Question  |  Solution   | Level | Note |
 | 4 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Solution](https://leetcode.com/problems/minimum-path-sum/solutions/4530823/same-as-unique-paths) | Medium | Prerequisite : Above 2 Qs |
 | 5 | [Maximal Square](https://leetcode.com/problems/maximal-square/description/) | [SOLUTION](https://leetcode.com/problems/maximal-square/submissions/1141462401) | Medium | `A Q THAT MAKES CLEAR THE ESSENCE OF DP` |
 | 6 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/) | [Solution](https://leetcode.com/problems/minimum-falling-path-sum/solutions/4537268/with-explanation) | Medium | |
+| 1 | [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [SOLUTION](https://leetcode.com/problems/largest-rectangle-in-histogram/solutions/4548575/next-lesser-element) | HARD | Next Lesser Element using Stack |
 
 
 
@@ -204,3 +205,4 @@ No |   Question  |  Solution   | Level |  Note |
 | 5 | [Delete And Earn](https://leetcode.com/problems/delete-and-earn/description/) | [Solution](https://leetcode.com/problems/delete-and-earn/solutions/4370504/fibonacci-style-solution/) | Medium | |
 | 6 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](https://leetcode.com/problems/target-sum/solutions/4270014/backtracking-knapsack01) | Medium | |
 | 1 | [Best Time To Buy And Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/4262072/explained-with-picture/) | Hard | |
+| 2 | [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [SOLUTION](https://leetcode.com/problems/largest-rectangle-in-histogram/solutions/4548575/next-lesser-element) | HARD | Next Lesser Element using Stack |
