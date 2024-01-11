@@ -27,6 +27,18 @@ No |   Question  |  Solution   | Level |  Note |
 | 2 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Solution](https://leetcode.com/problems/missing-number/solutions/3681710/2-line-cpp-python/) | Easy | logic |
 | 3 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) |  [Solution](https://leetcode.com/problems/water-and-jug-problem/solutions/3886057/gcd-with-little-explanation/) | MEDIUM | BAZETT'S THEOREM + MUST SOLVE |
 
+
+##                  Fibonacci Style DP
+
+No |   Question  |  Solution   | Level | Note |
+| :---- | :-----------| :---------- | :------| :-----|
+| 1 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](https://leetcode.com/problems/fibonacci-number/solutions/3530393/lru-cache-explanation/) | Easy | |
+| 2 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | [Solution](https://leetcode.com/problems/climbing-stairs/solutions/3529601/solution/) | Easy | MUST SOLVE |
+| 3 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Solution](https://leetcode.com/problems/min-cost-climbing-stairs/solutions/4017556/3-solution-with-explanation/) | EASY | 3 WAY TO SOLVE |
+| 1 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](https://leetcode.com/problems/house-robber/solutions/4204950/full-explanation-with-pictures/) | Medium | With 3 Variables |
+| 2 | [Delete And Earn](https://leetcode.com/problems/delete-and-earn/description/) | [Solution](https://leetcode.com/problems/delete-and-earn/solutions/4370504/fibonacci-style-solution/) | Medium | |
+
+
 ##                  Normal DP  (Dynamic Programming)
 No |   Question  |  Solution   | Level | Note |
 | :---- | :-----------| :---------- | :------| :-----|
@@ -83,16 +95,6 @@ No |   Question  |  Solution   | Level | Note |
 | 2 | [Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](https://leetcode.com/problems/subsets/solutions/4343509/backtracking-bit-manipulation/) | Medium | |
 | 3 | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) | [Solution](https://leetcode.com/problems/subsets-ii/solutions/4346389/explanation-with-pictures/) | Medium | Tricky Logic | 
 | 4 | [Combinations](https://leetcode.com/problems/combinations/description/) | [Solution](https://leetcode.com/problems/combinations/solutions/4349522/backtracking/) | Medium | |
-
-##                  Fibonacci Style DP
-
-No |   Question  |  Solution   | Level | Note |
-| :---- | :-----------| :---------- | :------| :-----|
-| 1 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](https://leetcode.com/problems/fibonacci-number/solutions/3530393/lru-cache-explanation/) | Easy | |
-| 2 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | [Solution](https://leetcode.com/problems/climbing-stairs/solutions/3529601/solution/) | Easy | MUST SOLVE |
-| 3 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Solution](https://leetcode.com/problems/min-cost-climbing-stairs/solutions/4017556/3-solution-with-explanation/) | EASY | 3 WAY TO SOLVE |
-| 1 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](https://leetcode.com/problems/house-robber/solutions/4204950/full-explanation-with-pictures/) | Medium | With 3 Variables |
-| 2 | [Delete And Earn](https://leetcode.com/problems/delete-and-earn/description/) | [Solution](https://leetcode.com/problems/delete-and-earn/solutions/4370504/fibonacci-style-solution/) | Medium | |
 
 
 ##                  LONGEST INCREASING SUBSEQUENCE (DP, PATIENT SORT)
