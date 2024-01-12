@@ -25,6 +25,7 @@ No |   Question  |  Solution   | Level |  Note |
 | :--- | :-----------| :---------- | :------| :----- |
 | 1 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)|[Solution](https://leetcode.com/problems/construct-the-rectangle/solutions/3672605/1-liner-python-and-3-liner-cpp/) | Easy | logic | 
 | 2 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Solution](https://leetcode.com/problems/missing-number/solutions/3681710/2-line-cpp-python/) | Easy | logic |
+| 3 | [Nim Game](https://leetcode.com/problems/nim-game/description/) | [Solution](https://leetcode.com/problems/nim-game/solutions/4554877/with-explanation) | Easy |O(1) Tricky Q|
 | 3 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) |  [Solution](https://leetcode.com/problems/water-and-jug-problem/solutions/3886057/gcd-with-little-explanation/) | MEDIUM | BAZETT'S THEOREM + MUST SOLVE |
 
 
@@ -200,6 +201,7 @@ No |   Question  |  Solution   | Level |  Note |
 
 | No | Question | Solution | Level | Note |
 | :--| :--------| :--------| :-----| :-----|
+| 1 | [Nim Game](https://leetcode.com/problems/nim-game/description/) | [Solution](https://leetcode.com/problems/nim-game/solutions/4554877/with-explanation) | Easy |O(1) Tricky Q|
 | 1 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-product-subarray/solutions/4290514/with-simple-explanation/) | Medium | |
 | 2 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-subarray/solutions/4292009/with-simple-explanation/) | Medium | |
 | 3 | [Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](https://leetcode.com/problems/word-break/solutions/4294569/solution/) | Medium | |
