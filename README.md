@@ -196,6 +196,11 @@ No |   Question  |  Solution   | Level |  Note |
 | 2 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) | [Solution](https://leetcode.com/problems/parallel-courses-iii/solutions/3932664/topological-sorting-plain-logic/) | Hard | |
 | 3 | [Largest Color Value In A Directed graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) | [SOLUTION](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/solutions/3945317/topological-sorting/) | MUST MUST SOLVEEEEEEEEEE |
 
+##                           Djikstra 
+| No | Question | Solution | Level | Note |
+| :--| :--------| :--------| :-----| :-----|
+| 1 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) | [Solution](https://leetcode.com/problems/network-delay-time/solutions/4576666/python-djikstra-solution) | Medium | |
+
 
 ## Problem's solution I found so simple or little bit unique from the normal concept and satisfying but maybe hard to think.
 
