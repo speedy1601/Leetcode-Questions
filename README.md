@@ -200,6 +200,7 @@ No |   Question  |  Solution   | Level |  Note |
 | No | Question | Solution | Level | Note |
 | :--| :--------| :--------| :-----| :-----|
 | 1 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) | [Solution](https://leetcode.com/problems/network-delay-time/solutions/4576666/python-djikstra-solution) | Medium | |
+| 2 | [Number Of Ways To Arrive At Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/) | [Solution](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/solutions/4594020/djikstra-python) | Medium | Almost Djikstra |
 
 
 ## Problem's solution I found so simple or little bit unique from the normal concept and satisfying but maybe hard to think.
