@@ -1,6 +1,11 @@
 # Leetcode's Question
 All the leetcode's Question I solved is given here with the solution. I tried to implement the best solution with good time and space complexity as well as providing the explanation. Hope you will like it.
 
+##                  Singly Linked List
+No |   Question  |  Solution   | Level |  Note |
+| :--- | :-----------| :---------- | :------| :----- |
+| 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](https://leetcode.com/problems/reverse-linked-list/solutions/4626185/with-explanation/) | Easy | |
+
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
