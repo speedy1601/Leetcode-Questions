@@ -5,6 +5,7 @@ All the leetcode's Question I solved is given here with the solution. I tried to
 No |   Question  |  Solution   | Level |  Note |
 | :--- | :-----------| :---------- | :------| :----- |
 | 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](https://leetcode.com/problems/reverse-linked-list/solutions/4626185/with-explanation/) | Easy | |
+| 2 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Solution](https://leetcode.com/problems/remove-linked-list-elements/solutions/4629996/python-solution) | Easy | Dummy node used |
 | 1 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [Solution](https://leetcode.com/problems/reverse-linked-list-ii/solutions/4628676/easy-python-solution) | Medium | |
 
 ##                  Array
