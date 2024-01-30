@@ -9,6 +9,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 3 | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-list/solutions/4630974/with-explanation) | Easy | One Pointer Solution | 
 | 1 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [Solution](https://leetcode.com/problems/reverse-linked-list-ii/solutions/4628676/easy-python-solution) | Medium | |
 | 2 | [Remove Duplicates From Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/solutions/4648309/with-intuition) | Medium | Almost same as [remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/solutions/4630974/with-explanation) |
+| 3 | [Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Solution](https://leetcode.com/problems/delete-node-in-a-linked-list/solutions/4648954/with-explanation) | Medium | |
 
 
 ##                  Array
