@@ -14,7 +14,8 @@ No |   Question  |  Solution   | Level |  Note |
 | 4 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/description/) | [SOLUTION](https://leetcode.com/problems/remove-nodes-from-linked-list/solutions/4651254/with-explanation) | Medium | Used Monostack, important Q |
 | 5 | [Delete The Middle Node Of A Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | [Solution](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/solutions/4686752/slow-fast-dummy-node) | Medium | Hare-Tortoise Algo used |
 | 6 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [SOLUTION](https://leetcode.com/problems/odd-even-linked-list/solutions/4687219/with-explanation) | Medium | |
-| 7 | [Swapping Nodes In A Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) | [SOLUTION](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/solutions/4691464/with-explanation) | Medium | `Distance` Concept used |
+| 7 | [Swapping Nodes In A Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) | [SOLUTION](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/solutions/4691464/with-explanation) | Medium | `DISTANCE Concept` used |
+| 8 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Solution](https://leetcode.com/problems/rotate-list/solutions/4692742/python-solution) | Medium | |
 
 
 ##                  Array
