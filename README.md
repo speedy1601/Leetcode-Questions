@@ -16,6 +16,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 6 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [SOLUTION](https://leetcode.com/problems/odd-even-linked-list/solutions/4687219/with-explanation) | Medium | |
 | 7 | [Swapping Nodes In A Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) | [SOLUTION](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/solutions/4691464/with-explanation) | Medium | `DISTANCE Concept` used |
 | 8 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Solution](https://leetcode.com/problems/rotate-list/solutions/4692742/python-solution) | Medium | |
+| 9 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/) | [Solution](https://leetcode.com/problems/merge-in-between-linked-lists/solutions/4694139/python-solution) | Medium | |
 
 
 ##                  Array
