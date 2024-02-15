@@ -25,6 +25,11 @@ No |   Question  |  Solution   | Level |  Note |
 | 12| [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Solution](https://leetcode.com/problems/copy-list-with-random-pointer/solutions/4730336/with-explanation) | Medium | |
 
 
+##                  Doubly Linked List
+No |   Question  |  Solution   | Level |  Note |
+| :--- | :-----------| :---------- | :------| :----- |
+| 1 | [Design Linked List](https://leetcode.com/problems/design-linked-list/description/) | [Solution](https://leetcode.com/problems/design-linked-list/solutions/4733203/python-doubly-linked-list) | Medium | |
+
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
 | :--- | :-----------| :---------- | :------| :----- |
