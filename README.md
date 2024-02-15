@@ -22,6 +22,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 9 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/) | [Solution](https://leetcode.com/problems/merge-in-between-linked-lists/solutions/4694139/python-solution) | Medium | |
 | 10| [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [Solution](https://leetcode.com/problems/reorder-list/solutions/4702754/with-explanation) | Medium | Intuition is Smart |
 | 11| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](https://leetcode.com/problems/add-two-numbers/solutions/4726094/with-explanation) | Medium | |
+| 12| [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Solution](https://leetcode.com/problems/copy-list-with-random-pointer/solutions/4730336/with-explanation) | Medium | |
 
 
 ##                  Array
