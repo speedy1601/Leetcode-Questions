@@ -30,6 +30,7 @@ No |   Question  |  Solution   | Level |  Note |
 | :--- | :-----------| :---------- | :------| :----- |
 | 1 | [Design Linked List](https://leetcode.com/problems/design-linked-list/description/) | [Solution](https://leetcode.com/problems/design-linked-list/solutions/4733203/python-doubly-linked-list) | Medium | |
 | 2 | [Design Browser History](https://leetcode.com/problems/design-browser-history/description/) | [SOLUTION](https://leetcode.com/problems/design-browser-history/solutions/4768999/python-doubly-linked-list-and-list) | Medium | `VERY IMPORTANT Q` |
+| 3 | [Lru Cache](https://leetcode.com/problems/lru-cache/description/) | [SOLUTION](https://leetcode.com/problems/lru-cache/solutions/4785136/with-explanation) | Medium | `VERY IMPORTANT Q` |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
