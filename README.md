@@ -32,6 +32,11 @@ No |   Question  |  Solution   | Level |  Note |
 | 2 | [Design Browser History](https://leetcode.com/problems/design-browser-history/description/) | [SOLUTION](https://leetcode.com/problems/design-browser-history/solutions/4768999/python-doubly-linked-list-and-list) | Medium | `VERY IMPORTANT Q` |
 | 3 | [Lru Cache](https://leetcode.com/problems/lru-cache/description/) | [SOLUTION](https://leetcode.com/problems/lru-cache/solutions/4785136/with-explanation) | Medium | `VERY IMPORTANT Q` |
 
+##                  Tree (Binary Tree)
+No |   Question  |  Solution   | Level |  Note |
+| :--- | :-----------| :---------- | :------| :----- |
+| 1 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/4875708/recursive-and-iterative-soln) | Easy | Iterative Method |
+
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
 | :--- | :-----------| :---------- | :------| :----- |
