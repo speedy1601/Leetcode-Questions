@@ -37,6 +37,7 @@ No |   Question  |  Solution   | Level |  Note |
 | :--- | :-----------| :---------- | :------| :----- |
 | 1 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/4875708/recursive-and-iterative-soln) | Easy | Iterative Method |
 | 2 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](https://leetcode.com/problems/binary-tree-preorder-traversal/solutions/4878054/3-solutions-with-explanation) | Easy | Iterative Method |
+| 3 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [Solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solutions/4880753/2-solutions-with-explanation) | Easy | `Iterative but tricky` |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
