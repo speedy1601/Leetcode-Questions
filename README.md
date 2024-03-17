@@ -41,6 +41,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 4 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Solution](https://leetcode.com/problems/same-tree/solutions/4884718/with-explanation) | Easy | `Good Q to practice Recursion` |
 | 5 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](https://leetcode.com/problems/symmetric-tree/solutions/4884998/with-explanation) | Easy | Same as [Same Tree](https://leetcode.com/problems/same-tree/description/) |
 | 6 | [Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Solution](https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/4886889/2-solutions-with-explanation) | Easy | Iterative Method |
+| 7 | [Minimum Depth Of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Solution](https://leetcode.com/problems/minimum-depth-of-binary-tree/solutions/4887608/with-explanation) | Easy | `Tricky Recursion` |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
@@ -249,6 +250,7 @@ No |   Question  |  Solution   | Level |  Note |
 | No | Question | Solution | Level | Note |
 | :--| :--------| :--------| :-----| :-----|
 | 1 | [Nim Game](https://leetcode.com/problems/nim-game/description/) | [Solution](https://leetcode.com/problems/nim-game/solutions/4554877/with-explanation) | Easy |O(1) Tricky Q|
+| 2 | [Minimum Depth Of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Solution](https://leetcode.com/problems/minimum-depth-of-binary-tree/solutions/4887608/with-explanation) | Easy | `Tricky Recursion` |
 | 1 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-product-subarray/solutions/4290514/with-simple-explanation/) | Medium | |
 | 2 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://leetcode.com/problems/maximum-subarray/solutions/4292009/with-simple-explanation/) | Medium | |
 | 3 | [Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](https://leetcode.com/problems/word-break/solutions/4294569/solution/) | Medium | |
