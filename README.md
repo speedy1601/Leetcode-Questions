@@ -39,6 +39,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 2 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](https://leetcode.com/problems/binary-tree-preorder-traversal/solutions/4878054/3-solutions-with-explanation) | Easy | Iterative Method |
 | 3 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [Solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solutions/4880753/2-solutions-with-explanation) | Easy | `Iterative but tricky` |
 | 4 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Solution](https://leetcode.com/problems/same-tree/solutions/4884718/with-explanation) | Easy | `Good Q to practice Recursion` |
+| 5 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](https://leetcode.com/problems/symmetric-tree/solutions/4884998/with-explanation) | Easy | Same as [Same Tree](https://leetcode.com/problems/same-tree/description/) |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
