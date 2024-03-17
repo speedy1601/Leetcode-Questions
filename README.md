@@ -42,6 +42,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 5 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](https://leetcode.com/problems/symmetric-tree/solutions/4884998/with-explanation) | Easy | Same as [Same Tree](https://leetcode.com/problems/same-tree/description/) |
 | 6 | [Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Solution](https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/4886889/2-solutions-with-explanation) | Easy | Iterative Method |
 | 7 | [Minimum Depth Of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Solution](https://leetcode.com/problems/minimum-depth-of-binary-tree/solutions/4887608/with-explanation) | Easy | `Tricky Recursion` |
+| 8 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [Solution](https://leetcode.com/problems/path-sum/solutions/4889679/2-solutions-with-explanation) | Easy | Knapsack Q |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
