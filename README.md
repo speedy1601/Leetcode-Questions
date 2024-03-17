@@ -40,6 +40,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 3 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [Solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solutions/4880753/2-solutions-with-explanation) | Easy | `Iterative but tricky` |
 | 4 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Solution](https://leetcode.com/problems/same-tree/solutions/4884718/with-explanation) | Easy | `Good Q to practice Recursion` |
 | 5 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](https://leetcode.com/problems/symmetric-tree/solutions/4884998/with-explanation) | Easy | Same as [Same Tree](https://leetcode.com/problems/same-tree/description/) |
+| 6 | [Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Solution](https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/4886889/2-solutions-with-explanation) | Easy | Iterative Method |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
