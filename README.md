@@ -45,6 +45,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 8 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [Solution](https://leetcode.com/problems/path-sum/solutions/4889679/2-solutions-with-explanation) | Easy | Knapsack Q |
 | 9 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) | [Solution](https://leetcode.com/problems/count-complete-tree-nodes/solutions/4896131/with-explanation) | Easy | `Full Binary Tree` concept used |
 | 10| [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Solution](https://leetcode.com/problems/binary-tree-paths/solutions/4896735/dfs-bfs-with-explanation) | Easy | Similar as [subsets](https://leetcode.com/problems/subsets/description/) |
+| 11| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Solution](https://leetcode.com/problems/invert-binary-tree/solutions/4900695/dfs-bfs-with-explanation) | Easy | |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
