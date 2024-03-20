@@ -46,6 +46,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 9 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) | [Solution](https://leetcode.com/problems/count-complete-tree-nodes/solutions/4896131/with-explanation) | Easy | `Full Binary Tree` concept used |
 | 10| [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Solution](https://leetcode.com/problems/binary-tree-paths/solutions/4896735/dfs-bfs-with-explanation) | Easy | Similar as [subsets](https://leetcode.com/problems/subsets/description/) |
 | 11| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Solution](https://leetcode.com/problems/invert-binary-tree/solutions/4900695/dfs-bfs-with-explanation) | Easy | |
+| 12| [Sum Of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | [Solution](https://leetcode.com/problems/sum-of-left-leaves/solutions/4900908/dfs-bfs-with-explanation) | Easy | Used Default Argument |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
