@@ -48,6 +48,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 11| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Solution](https://leetcode.com/problems/invert-binary-tree/solutions/4900695/dfs-bfs-with-explanation) | Easy | |
 | 12| [Sum Of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | [Solution](https://leetcode.com/problems/sum-of-left-leaves/solutions/4900908/dfs-bfs-with-explanation) | Easy | Used Default Argument |
 | 13| [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [SOLUTION](https://leetcode.com/problems/diameter-of-binary-tree/solutions/4905245/with-explanation) | Easy | `Crucial Tree Q` |
+| 14| [Second Minimum Node In A Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) | [Solution](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/solutions/4906719/dfs-with-explanation) | Easy | |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
