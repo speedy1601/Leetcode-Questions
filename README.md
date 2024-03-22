@@ -51,6 +51,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 14| [Second Minimum Node In A Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) | [Solution](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/solutions/4906719/dfs-with-explanation) | Easy | |
 | 15| [Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Solution](https://leetcode.com/problems/leaf-similar-trees/solutions/4907682/dfs-with-explanation) | Easy | |
 | 1 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Solution](https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/4909546/bfs-and-dfs) | Medium | `DFS` Method Added Too |
+| 2 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Solution](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/solutions/4911171/bfs-reverse-at-the-last) | Medium | |
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
 | :--- | :-----------| :---------- | :------| :----- |
