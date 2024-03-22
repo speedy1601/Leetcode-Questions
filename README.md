@@ -50,7 +50,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 13| [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [SOLUTION](https://leetcode.com/problems/diameter-of-binary-tree/solutions/4905245/with-explanation) | Easy | `Crucial Tree Q` |
 | 14| [Second Minimum Node In A Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) | [Solution](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/solutions/4906719/dfs-with-explanation) | Easy | |
 | 15| [Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Solution](https://leetcode.com/problems/leaf-similar-trees/solutions/4907682/dfs-with-explanation) | Easy | |
-
+| 1 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Solution](https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/4909546/bfs-and-dfs) | Medium | `DFS` Method Added Too |
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
 | :--- | :-----------| :---------- | :------| :----- |
