@@ -52,7 +52,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 15| [Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Solution](https://leetcode.com/problems/leaf-similar-trees/solutions/4907682/dfs-with-explanation) | Easy | |
 | 1 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Solution](https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/4909546/bfs-and-dfs) | Medium | `DFS` Method Added Too |
 | 2 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Solution](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/solutions/4911171/bfs-reverse-at-the-last) | Medium | |
-| 3 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [SOLUTION](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/solutions/4927689/bfs-with-2-deque) | `Very Logical` |
+| 3 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [SOLUTION](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/solutions/4927689/bfs-with-2-deque) | Medium | `Very Logical` |
 
 
 ##                  Array
