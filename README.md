@@ -54,6 +54,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 2 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Solution](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/solutions/4911171/bfs-reverse-at-the-last) | Medium | |
 | 3 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [SOLUTION](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/solutions/4927689/bfs-with-2-deque) | Medium | `Very Logical` |
 | 4 | [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [Solution](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/solutions/4929892/neetcode) | Medium | | 
+| 5 | [Construct Binary Tree From Inorder And Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | [Solution](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/solutions/4930074/same-as-105) | Medium | |
 
 
 ##                  Array
