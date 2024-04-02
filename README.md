@@ -59,6 +59,10 @@ No |   Question  |  Solution   | Level |  Note |
 | 6 | [Check Completeness Of A Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) | [Solution](https://leetcode.com/problems/check-completeness-of-a-binary-tree/solutions/4932053/bfs-with-explanation) | Medium | `Very Logical` |
 | 7 | [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) | [SOLUTION](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/4937988/preorder-traversal-with-explanation) | Medium | `Good Q to practice PreOrderTraversal` |
 
+##                  Binary Search Tree (BST)
+No |   Question  |  Solution   | Level |  Note |
+| :--- | :-----------| :---------- | :------| :----- |
+| 1 | [Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/insert-into-a-binary-search-tree/solutions/4961832/iterative-and-recursion) | Medium | Iterative Method and `VERY GOOD Q TO PRACTICE RECURSION` | 
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
