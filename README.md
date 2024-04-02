@@ -62,6 +62,7 @@ No |   Question  |  Solution   | Level |  Note |
 ##                  Binary Search Tree (BST)
 No |   Question  |  Solution   | Level |  Note |
 | :--- | :-----------| :---------- | :------| :----- |
+| 1 | [Search In A Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/search-in-a-binary-search-tree/solutions/4963792/recursion-and-iterative) | Easy | |
 | 1 | [Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/insert-into-a-binary-search-tree/solutions/4961832/iterative-and-recursion) | Medium | Iterative Method and `VERY GOOD Q TO PRACTICE RECURSION` | 
 
 ##                  Array
