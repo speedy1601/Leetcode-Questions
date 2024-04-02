@@ -63,6 +63,7 @@ No |   Question  |  Solution   | Level |  Note |
 No |   Question  |  Solution   | Level |  Note |
 | :--- | :-----------| :---------- | :------| :----- |
 | 1 | [Search In A Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/search-in-a-binary-search-tree/solutions/4963792/recursion-and-iterative) | Easy | |
+| 2 | [Find Mode In Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/find-mode-in-binary-search-tree/solutions/4964677/defaultdict) | Easy | |
 | 1 | [Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/insert-into-a-binary-search-tree/solutions/4961832/iterative-and-recursion) | Medium | Iterative Method and `VERY GOOD Q TO PRACTICE RECURSION` | 
 
 ##                  Array
