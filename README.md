@@ -66,6 +66,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 2 | [Find Mode In Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/find-mode-in-binary-search-tree/solutions/4964677/defaultdict) | Easy | |
 | 3 | [Minimum Absolute Difference In BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Solution](https://leetcode.com/problems/minimum-absolute-difference-in-bst/solutions/4966444/with-explanation) | Easy | `Observation` Required |
 | 4 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Solution](https://leetcode.com/problems/minimum-distance-between-bst-nodes/solutions/4967146/same-as-minimum-absolute-difference-in-bst) | Easy | |
+| 5 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) | [Solution](https://leetcode.com/problems/increasing-order-search-tree/solutions/4967872/dfs-with-explanation) | Easy | Similar as [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) |
 | 1 | [Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/insert-into-a-binary-search-tree/solutions/4961832/iterative-and-recursion) | Medium | Iterative Method and `VERY GOOD Q TO PRACTICE RECURSION` | 
 
 ##                  Array
