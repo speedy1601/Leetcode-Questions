@@ -69,7 +69,8 @@ No |   Question  |  Solution   | Level |  Note |
 | 5 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) | [Solution](https://leetcode.com/problems/increasing-order-search-tree/solutions/4967872/dfs-with-explanation) | Easy | Similar as [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) |
 | 6 | [Range Sum Of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Solution](https://leetcode.com/problems/range-sum-of-bst/solutions/4974478/dfs-bfs-with-explanation) | Easy | `GOOD Q TO PRACTICE LOGIC & RECURSION` |
 | 7 | [Two Sum IV - Input Is A BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [Solution](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/solutions/4983094/dfs-bfs-with-binary-search) | Easy | `GOOD Q TO WRITE SHORT RECURSION` |
-| 1 | [Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/insert-into-a-binary-search-tree/solutions/4961832/iterative-and-recursion) | Medium | Iterative Method and `VERY GOOD Q TO PRACTICE RECURSION` | 
+| 1 | [Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/insert-into-a-binary-search-tree/solutions/4961832/iterative-and-recursion) | Medium | Iterative Method and `VERY GOOD Q TO PRACTICE RECURSION` |
+| 2 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/validate-binary-search-tree/solutions/4992199/dfs-bfs-with-explanation) | Medium | `Inorder Traversal` |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
