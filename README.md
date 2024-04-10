@@ -72,7 +72,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 1 | [Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/insert-into-a-binary-search-tree/solutions/4961832/iterative-and-recursion) | Medium | Iterative Method and `VERY GOOD Q TO PRACTICE RECURSION` |
 | 2 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/validate-binary-search-tree/solutions/4992199/dfs-bfs-with-explanation) | Medium | `Inorder Traversal` |
 | 3 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/recover-binary-search-tree/solutions/5002754/dfs-bfs-with-explanation) | Medium | `Inorder Traversal` |
-| 4 | [Kth Smallest Element In A BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/5004058/dfs-bfs-with-explanation) | `Inorder Traversal` & `GOOD Q TO PRACTICE RECURSION LOGIC` |
+| 4 | [Kth Smallest Element In A BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/5004058/dfs-bfs-with-explanation) | Medium | `Inorder Traversal` & `GOOD Q TO PRACTICE RECURSION LOGIC` |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
