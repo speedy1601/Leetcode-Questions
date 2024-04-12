@@ -73,7 +73,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 2 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/validate-binary-search-tree/solutions/4992199/dfs-bfs-with-explanation) | Medium | `Inorder Traversal` |
 | 3 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/recover-binary-search-tree/solutions/5002754/dfs-bfs-with-explanation) | Medium | `Inorder Traversal` |
 | 4 | [Kth Smallest Element In A BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/5004058/dfs-bfs-with-explanation) | Medium | `Inorder Traversal` & `GOOD Q TO PRACTICE RECURSION LOGIC` |
-| 5 | [All Elements In Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/) | [SOLUTION](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/solutions/5012814/bfs-with-explanation) | Medium | `VERY IMPORTANT BST Q` |
+| 5 | [All Elements In Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/) | [SOLUTION](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/solutions/5012814/bfs-with-explanation) | Medium | `Inorder Traversal` & `VERY IMPORTANT` |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
