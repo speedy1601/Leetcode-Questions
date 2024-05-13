@@ -77,6 +77,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 6 | [Construct Binary Search Tree From Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/) | [SOLUTION](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/solutions/5023315/all-solutions-with-explanation) | Medium | `CRUCIAL Q OF BST to build LOGIC` |
 | 7 | [Delete Node In A BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) | [SOLUTION](https://leetcode.com/problems/delete-node-in-a-bst/solutions/5115570/tc-with-explanation) | Medium | `BEFORE YOUR DEATH, SOLVE THIS Q` |
 | 8 | [Trim A Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [SOLUTION](https://leetcode.com/problems/trim-a-binary-search-tree/solutions/5125392/with-explanation) | Medium | `GOOD Q TO PRACTICE LOGIC & RECURSION` |
+| 9 | [Convert Bst To Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](https://leetcode.com/problems/convert-bst-to-greater-tree/solutions/5151769/with-explanation) | Medium | `Inorder Traversal` & `Good Q to practice common sense` |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
