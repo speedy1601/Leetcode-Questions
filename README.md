@@ -78,6 +78,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 7 | [Delete Node In A BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) | [SOLUTION](https://leetcode.com/problems/delete-node-in-a-bst/solutions/5115570/tc-with-explanation) | Medium | `BEFORE YOUR DEATH, SOLVE THIS Q` |
 | 8 | [Trim A Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [SOLUTION](https://leetcode.com/problems/trim-a-binary-search-tree/solutions/5125392/with-explanation) | Medium | `GOOD Q TO PRACTICE LOGIC & RECURSION` |
 | 9 | [Convert Bst To Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](https://leetcode.com/problems/convert-bst-to-greater-tree/solutions/5151769/with-explanation) | Medium | `Inorder Traversal` & `Good Q to practice common sense` |
+| 11 | [Lowest Common Ancestor Of A Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solutions/5161520/with-explanation) | Medium | `Good Q to practice common sense` |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
