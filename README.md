@@ -58,6 +58,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 5 | [Construct Binary Tree From Inorder And Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | [Solution](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/solutions/4930074/same-as-105) | Medium | Same as Upper one |
 | 6 | [Check Completeness Of A Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) | [Solution](https://leetcode.com/problems/check-completeness-of-a-binary-tree/solutions/4932053/bfs-with-explanation) | Medium | `Very Logical` |
 | 7 | [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) | [SOLUTION](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/4937988/preorder-traversal-with-explanation) | Medium | `Good Q to practice PreOrderTraversal` |
+| 8 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Solution](https://leetcode.com/problems/create-binary-tree-from-descriptions/solutions/5194173/with-explanation) | Medium | |
 
 ##                  Binary Search Tree (BST)
 No |   Question  |  Solution   | Level |  Note |
