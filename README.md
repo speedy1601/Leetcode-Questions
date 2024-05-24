@@ -83,6 +83,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 11 | [Lowest Common Ancestor Of A Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solutions/5161520/with-explanation) | Medium | `Good Q to practice common sense` |
 | 12 | [Convert Sorted List To Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/solutions/5193832/with-explanation) | Medium | Same as [Convert Sorted Array To Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) |
 | 13 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution](https://leetcode.com/problems/binary-search-tree-iterator/solutions/5197807/with-explanation) | Medium | `Inorder Traversal` |
+| 14 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Solution](https://leetcode.com/problems/unique-binary-search-trees/solutions/5201860/with-explanation) | Medium | Dynamic Programming and Catalan Number |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
