@@ -84,6 +84,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 12 | [Convert Sorted List To Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [Solution](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/solutions/5193832/with-explanation) | Medium | Same as [Convert Sorted Array To Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) |
 | 13 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution](https://leetcode.com/problems/binary-search-tree-iterator/solutions/5197807/with-explanation) | Medium | `Inorder Traversal` |
 | 14 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Solution](https://leetcode.com/problems/unique-binary-search-trees/solutions/5201860/with-explanation) | Medium | Dynamic Programming and Catalan Number |
+| 15 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [Solution](https://leetcode.com/problems/unique-binary-search-trees-ii/solutions/5212012/with-explanation) | Medium |  `GOOD Q TO PRACTICE RECURSION LOGIC` |
 
 ##                  Array
 No |   Question  |  Solution   | Level |  Note |
