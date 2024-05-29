@@ -60,6 +60,7 @@ No |   Question  |  Solution   | Level |  Note |
 | 7 | [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) | [SOLUTION](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/4937988/preorder-traversal-with-explanation) | Medium | `Good Q to practice PreOrderTraversal` |
 | 8 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Solution](https://leetcode.com/problems/create-binary-tree-from-descriptions/solutions/5194173/with-explanation) | Medium | |
 | 9 | [Lowest Common Ancestor Of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/5221662/with-explanation) | Medium | |
+| 10 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Solution](https://leetcode.com/problems/balanced-binary-tree/solutions/5225350/with-explanation) | Medium | |
 
 ##                  Binary Search Tree (BST)
 No |   Question  |  Solution   | Level |  Note |
