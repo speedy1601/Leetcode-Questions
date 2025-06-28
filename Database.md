@@ -13,6 +13,11 @@ Here I solved other Database Questions aside from the leetcode's challenges on P
 | 7 | [Swap Salary](https://leetcode.com/problems/swap-salary/description/) | [Solution](https://leetcode.com/problems/swap-salary/solutions/6856978/pandas-polars-postgresql-by-speedyy-agqp) | `Pandas : df.replace({'column_1' : {'old_1':'new_1', 'old_2':'new_2'}, 'column_2' : {....}})` `PostgreSQL : UPDATE` |
 | 8 | [Actors And Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/) | [Solution](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/solutions/6869252/pandas-polars-postgresql-by-speedyy-qw6l) | |
 | 9 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/description/) | [Solution](https://leetcode.com/problems/sales-analysis-iii/solutions/6877183/pandas-polars-postgresql-by-speedyy-80zw) | `Polars : bitwise_and(column), PostgreSQL : BOOL_AND(column)`, `Often a problem is easier to solve if we've a boolean column` |
-| 10| []() | [Solution]() | |
+| 10| [Top Travellers](https://leetcode.com/problems/top-travellers/) | [Solution](https://leetcode.com/problems/top-travellers/solutions/6896598/postgresql-by-speedyy-ut6b) | |
+| 11| []() | [Solution]() | |
+| 12| []() | [Solution]() | |
+| 13| []() | [Solution]() | |
+| 14| []() | [Solution]() | |
+| 15| []() | [Solution]() | |
 
 - Problems which are crucial to solve to be adept in logic building = 9. 
